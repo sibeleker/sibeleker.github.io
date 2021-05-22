@@ -1,20 +1,11 @@
 ---
 layout: page
 title: Dr. Sibel Eker
-subtitle: Systems Modeler and Analyst
-show-avatar: false
 ---
+Dr. Sibel Eker is currently a Senior Researcher at Climate Interactive and a Research Scholar at International Institute for Applied Systems Analysis (IIASA) in Austria. 
+She has an engineering background with specialization in mathematical modelling of socioeconomic systems. Through her PhD degree in policy analysis and several projects afterwards, she has developed an interdisciplinary research profile that combines systems analysis and engineering, decision sciences and social sciences.
 
-<div class="body">
-			<img style="float: left;border-radius:50%;padding-right:10px" src="/img/profile4.jpg" width="200" alt="cv"/>
-			<div class="body_left">
-					<p>I am currently a Senior Researcher at <a href="https://www.climateinteractive.org/" target="_blank">Climate Interactive</a> and a Research Scholar at <a href="https://iiasa.ac.at" target="_blank">International Institute for Applied Systems Analysis</a> (IIASA) in Austria. I have an engineering background with specialization in mathematical modelling of socioeconomic systems. Through my PhD degree in policy analysis and several projects afterwards, I have developed an interdisciplinary research profile that combines systems analysis and engineering, decision sciences and social sciences.</p>
-			</div><!-- /.blurb -->
-</div><!-- /.container -->
-
----
-
-### Research Experience
+### Experience
 __________
 #### 2020-present | Senior Researcher | Climate Interactive, Washington DC, USA
 See the <a href="https://en-roads.climateinteractive.org/scenario.html">En-ROADS</a> climate solutions simulator and become a <a href="https://www.climateinteractive.org/tools/en-roads/climate-ambassadors/">climate ambassador</a>.  
