@@ -23,10 +23,10 @@ Her current research interests center around the drivers and implications of dem
 ### Expertise 
 
 #### Problem structuring and participatory modelling 
-Contextualizing and structuring complex problems based on systems analytical approaches, facilitating participatory modelling activities, knowledge co-production and stakeholder engagement  
+Contextualizing and structuring complex problems based on systems analytical approaches, knowledge co-production and stakeholder engagement
 
 #### System dynamics (SD) modelling
-Developing qualitative and quantitative [system dynamics](https://www.systemdynamics.org/what-is-sd) models, experienced with all major SD software and mostly using Vensim DSS, providing model-based solution strategies and policy recommendations for dynamic problems in various complex social, managerial, economic, or environmental contexts
+Qualitative and quantitative [system dynamics](https://www.systemdynamics.org/what-is-sd) models, providing model-based solution strategies and policy recommendations for dynamic problems in various complex social, managerial, economic, or environmental contexts
 
 #### Decision-making under deep uncertainty
 Analyzing decision-making problems characterized by [deep uncertainty](https://www.rand.org/pubs/monograph_reports/MR1626.html), when the parties to a decision do not know, or agree on, the best model for relating actions to consequences or the likelihood of future events, using decision-aid tools and dedicated Python-packages for exploratory modelling and analysis and multi-objective robust decision making 
