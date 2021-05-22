@@ -1,12 +1,13 @@
 # Site navigation links
 
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: Recipes
-  url: /recipes/
+- title: About
+  url: /about/
+- title: Research
+  - Current Projects: "current"
+  - Past Projects: "past"
+- title: Publications
+  url: /publications/
+- title: Projects
+  url: /projects/
 - title: Search
   url: /search/
