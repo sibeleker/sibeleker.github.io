@@ -2,26 +2,23 @@
 layout: page
 title: Dr. Sibel Eker
 ---
-Dr. Sibel Eker is currently a Senior Researcher at Climate Interactive and a Research Scholar at International Institute for Applied Systems Analysis (IIASA) in Austria. 
-She has an engineering background with specialization in mathematical modelling of socioeconomic systems. Through her PhD degree in policy analysis and several projects afterwards, she has developed an interdisciplinary research profile that combines systems analysis and engineering, decision sciences and social sciences.
+Dr. Sibel Eker is currently a Senior Researcher at [Climate Interactive](https://www.climateinteractive.org/) and a Research Scholar at [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/) in Austria. Her interdisciplinary research profile combines systems analysis and engineering, decision sciences and social sciences, and her work brings systems thinking and uncertainty focus to climate change and sustainability problems with model-based approaches. 
+
+Her current research interests center around the drivers and implications of demand-side climate change mitigation, sustainable diets, and co-production of mitigation and sustainability scenarios through simple integrated assessment models. 
+
+[Sibel's full CV as of May 2021](/Eker_CV_202105.pdf). 
 
 ### Experience
 __________
-#### 2020-present | Senior Researcher | Climate Interactive, Washington DC, USA
-See the <a href="https://en-roads.climateinteractive.org/scenario.html">En-ROADS</a> climate solutions simulator and become a <a href="https://www.climateinteractive.org/tools/en-roads/climate-ambassadors/">climate ambassador</a>.  
+**2020-present | Senior Researcher | Climate Interactive, Washington DC, USA**
 
-#### 2019-present | Research Scholar | IIASA, Austria
-My current research at IIASA focuses on lifestyle change as a climate change mitigation option at the Energy Program. Previously, at the Ecosystems Services and Management program, I extended the FeliX integrated assessment model to explore lifestyle change, land use dynamics and negative emission technologies, and I led participatory modelling activities to foster regional climate resilience in Europe. See <a href="/current">Current Projects</a>.  
+**2019-present | Research Scholar | IIASA, Austria**
 
-#### 2017-2019 | Postdoctoral Research Scholar | IIASA, Austria
-During my postdoc fellowship at IIASA, I worked on the validation of uncertainty-oriented systems models and national well-being. See <a href="/past">Past Projects</a>.
+**2017-2019 | Postdoctoral Research Scholar | IIASA, Austria**
 
-#### 2017 | Postdoctoral Researcher | Delft University of Technology, Netherlands
-At the Faculty of Technology, Policy and Management, I worked on a World Bank project that evaluates the vulnerabilities of the Bangladesh's multi-modal transport network to climate change, specifically to flood events. See <a href="/past">Past Projects</a>.
+**2017 | Postdoctoral Researcher | Delft University of Technology, Netherlands**
 
-#### 2016 | Research Associate | University College London, UK
-At UCL Institute for Environmental Design and Engineering, I worked on the ‘Integrated decision-making about Housing, Energy and Wellbeing (HEW)’ project. See <a href="/past">Past Projects</a>.
-
+**2016 | Research Associate | University College London, UK**
 
 ### Expertise 
 _____________
@@ -41,16 +38,15 @@ Qualitative and quantitative data collection from surveys, interviews, scientifi
 
 ### Education
 __________
-#### 2011-2016 | PhD in Policy Analysis | Delft University of Technology, Netherlands
-I developed a system dynamics simulation model of the Dutch energy and natural gas system, and used this model to derive scenario-based policy recommendations. I used various methods of decision-making under deep uncertainty, and developed an approach to incoporate stakeholder perspectives into model-based scenarios.
+#### 2011-2016 | PhD in Policy Analysis 
+Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
 
-##### 2013 | Visiting student | Engineering Systems Division, Massachusetts Institute of Technology, USA
+  - 2013 | Visiting student | Engineering Systems Division, Massachusetts Institute of Technology, USA
 
+#### 2009-2011 | MSc in Systems Engineering, Policy Analysis and Management
+Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
 
-#### 2009-2011 | MSc in Systems Engineering, Policy Analysis and Management| Delft University of Technology, Netherlands
-With a two-year scholarship by the Faculty of Technology, Policy and Management, I studied an interdisciplinary curriculum that focused on multi-actor management of socio-technical systems, specialized in *modelling, simulation and gaming*, and  wrote a thesis on the sensitivity analysis of graphical functions in system dynamics models.
+#### 2004-2009 | BSc in Industrial Engineering 
+Faculty of Engineering, Bogazici University, Turkey
 
-#### 2004-2009 | BSc in Industrial Engineering | Bogazici University, Turkey
-I learned the theory and various industrial and socioeconomic applications of *operations research* besides diverse engineering subjects.
-
-##### 2008 | Exchange student | Eindhoven University of Technology, Netherlands
+  - 2008 | Exchange student | Eindhoven University of Technology, Netherlands
