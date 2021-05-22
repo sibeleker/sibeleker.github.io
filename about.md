@@ -20,6 +20,7 @@ Her current research interests center around the drivers and implications of dem
   </table>
 </div>
 
+
 ### Expertise 
 
 #### Problem structuring and participatory modelling 
