@@ -37,15 +37,12 @@ Qualitative and quantitative data collection from surveys, interviews, scientifi
 
 ### Education
 
-#### 2011-2016 | PhD in Policy Analysis 
-Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
+#### 2011-2016 | PhD in Policy Analysis, Delft University of Technology, Netherlands
 
   - 2013 - Visiting student - Engineering Systems Division, Massachusetts Institute of Technology, USA
 
-#### 2009-2011 | MSc in Systems Engineering, Policy Analysis and Management
-Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
+#### 2009-2011 | MSc in Systems Engineering, Policy Analysis and Management, Delft University of Technology, Netherlands
 
-#### 2004-2009 | BSc in Industrial Engineering 
-Faculty of Engineering, Bogazici University, Turkey
+#### 2004-2009 | BSc in Industrial Engineering, Bogazici University, Turkey
 
   - 2008 - Exchange student - Eindhoven University of Technology, Netherlands
