@@ -9,7 +9,7 @@ Her current research interests center around the drivers and implications of dem
 [Sibel's full CV as of May 2021](/Eker_CV_202105.pdf)
 
 ### Experience
-<p>
+<div>
   <table align="left">
     <tr><th align="left"> </th><th align="left"> </th><th align="left"> </th></tr>
     <tr><td><b>2020-present</b></td><td>Senior Researcher</td><td>Climate Interactive, Washington DC, USA</td></tr>
@@ -18,7 +18,7 @@ Her current research interests center around the drivers and implications of dem
     <tr><td><b>2017</b></td><td>Postdoctoral Researcher</td><td>Delft University of Technology, Netherlands</td></tr>
     <tr><td><b>2016</b></td><td>Research Associate</td><td>University College London, UK</td></tr>
   </table>
-</p>
+</div>
 __________
 ### Expertise 
 
