@@ -6,19 +6,19 @@ Dr. Sibel Eker is currently a Senior Researcher at [Climate Interactive](https:/
 
 Her current research interests center around the drivers and implications of demand-side climate change mitigation, sustainable diets, and co-production of mitigation and sustainability scenarios through simple integrated assessment models. 
 
-[Sibel's full CV as of May 2021](/Eker_CV_202105.pdf). 
+[Sibel's full CV as of May 2021](/Eker_CV_202105.pdf)
 
 ### Experience
 __________
-**2020-present | Senior Researcher | Climate Interactive, Washington DC, USA**
+**2020-present | Senior Researcher - Climate Interactive, Washington DC, USA**
 
-**2019-present | Research Scholar | IIASA, Austria**
+**2019-present | Research Scholar - IIASA, Austria**
 
-**2017-2019 | Postdoctoral Research Scholar | IIASA, Austria**
+**2017-2019 | Postdoctoral Research Scholar - IIASA, Austria**
 
-**2017 | Postdoctoral Researcher | Delft University of Technology, Netherlands**
+**2017 | Postdoctoral Researcher - Delft University of Technology, Netherlands**
 
-**2016 | Research Associate | University College London, UK**
+**2016 | Research Associate - University College London, UK**
 
 ### Expertise 
 _____________
@@ -41,7 +41,7 @@ __________
 #### 2011-2016 | PhD in Policy Analysis 
 Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
 
-  - 2013 | Visiting student | Engineering Systems Division, Massachusetts Institute of Technology, USA
+  - 2013 | Visiting student - Engineering Systems Division, Massachusetts Institute of Technology, USA
 
 #### 2009-2011 | MSc in Systems Engineering, Policy Analysis and Management
 Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
@@ -49,4 +49,4 @@ Faculty of Technology, Policy and Management, Delft University of Technology, Ne
 #### 2004-2009 | BSc in Industrial Engineering 
 Faculty of Engineering, Bogazici University, Turkey
 
-  - 2008 | Exchange student | Eindhoven University of Technology, Netherlands
+  - 2008 | Exchange student - Eindhoven University of Technology, Netherlands
