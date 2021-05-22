@@ -9,13 +9,16 @@ Her current research interests center around the drivers and implications of dem
 [Sibel's full CV as of May 2021](/Eker_CV_202105.pdf)
 
 ### Experience
-|        |           |   |
-| ------------- |:-------------:| -----:|
-|**2020-present** | Senior Researcher | Climate Interactive, Washington DC, USA|
-|**2019-present** | Research Scholar | IIASA, Austria|
-|**2017-2019** | Postdoctoral Research Scholar | IIASA, Austria|
-|**2017**| Postdoctoral Researcher | Delft University of Technology, Netherlands|
-|**2016** | Research Associate | University College London, UK|
+<p>
+  <table align="left">
+    <tr><th align="left"> </th><th align="left"> </th><th align="left"> </th></tr>
+    <tr><td><b>2020-present</b></td><td>Senior Researcher</td><td>Climate Interactive, Washington DC, USA</td></tr>
+    <tr><td><b>2019-present</b></td><td>Research Scholar</td><td>IIASA, Austria</td></tr>
+    <tr><td><b>2017-2019</b></td><td>Postdoctoral Research Scholar</td><td>IIASA, Austria</td></tr>
+    <tr><td><b>2017</b></td><td>Postdoctoral Researcher</td><td>Delft University of Technology, Netherlands</td></tr>
+    <tr><td><b>2016</b></td><td>Research Associate</td><td>University College London, UK</td></tr>
+  </table>
+</p>
 __________
 ### Expertise 
 
