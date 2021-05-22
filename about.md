@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Sibel Eker
+title: Bio
 ---
 Dr. Sibel Eker is currently a Senior Researcher at [Climate Interactive](https://www.climateinteractive.org/) and a Research Scholar at [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/) in Austria. Her interdisciplinary research profile combines systems analysis and engineering, decision sciences and social sciences, and her work brings systems thinking and uncertainty focus to climate change and sustainability problems with model-based approaches. 
 
