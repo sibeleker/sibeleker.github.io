@@ -3,8 +3,7 @@
 - title: About
   url: /about/
 - title: Research
-  - Current Projects: "current"
-  - Past Projects: "past"
+  url: /research/
 - title: Publications
   url: /publications/
 - title: Projects
