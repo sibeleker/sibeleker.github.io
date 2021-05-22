@@ -19,7 +19,7 @@ Her current research interests center around the drivers and implications of dem
     <tr><td><b>2016</b></td><td>Research Associate</td><td>University College London, UK</td></tr>
   </table>
 </div>
-__________
+
 ### Expertise 
 
 #### Problem structuring and participatory modelling 
@@ -33,14 +33,14 @@ Analyzing decision-making problems characterized by [deep uncertainty](https://w
 
 #### Data collection and analysis
 Qualitative and quantitative data collection from surveys, interviews, scientific literature, online databases, website and social media APIs (e.g. Google Trends, Facebook); qualitiative data analysis based on grounded theory approach, quantitative data analysis and visualization, including text-mining, with Python tools
-_____________
+
 
 ### Education
 
 #### 2011-2016 | PhD in Policy Analysis 
 Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
 
-  - 2013 | Visiting student - Engineering Systems Division, Massachusetts Institute of Technology, USA
+  - 2013 - Visiting student - Engineering Systems Division, Massachusetts Institute of Technology, USA
 
 #### 2009-2011 | MSc in Systems Engineering, Policy Analysis and Management
 Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands
@@ -48,4 +48,4 @@ Faculty of Technology, Policy and Management, Delft University of Technology, Ne
 #### 2004-2009 | BSc in Industrial Engineering 
 Faculty of Engineering, Bogazici University, Turkey
 
-  - 2008 | Exchange student - Eindhoven University of Technology, Netherlands
+  - 2008 - Exchange student - Eindhoven University of Technology, Netherlands
