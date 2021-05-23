@@ -4,11 +4,13 @@ layout: page
 ---
 
 
--> [**Organized Events and Outreach**](#organized-events-and-outreach)
--> [**Invited lectures and talks**](#invited-lectures-and-talks)
--> [**International conference talks**](#international-conference-talks)
+- [**Organized Events and Outreach**](#organized-events-and-outreach)
 
-![cnter-aligned-image](/images/outreach.jpeg){: .align-center width="700px"}
+- [**Invited lectures and talks**](#invited-lectures-and-talks)
+
+- [**International conference talks**](#international-conference-talks)
+
+![center-aligned-image](/images/outreach.jpeg){: .align-center width="700px"}
 
 # Organized Events and Outreach
 
