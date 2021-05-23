@@ -10,12 +10,9 @@ Her current research interests center around the drivers and implications of dem
 
 ### Experience
 
-#### 2020-present | Senior Researcher | Climate Interactive, Washington DC, USA
-
-#### 2019-present | Research Scholar | IIASA, Austria
-
-#### 2017-2019 | Postdoctoral Research Scholar | IIASA, Austria
-
+|2020-present | Senior Researcher , Climate Interactive, Washington DC, USA|
+|2019-present | Research Scholar , IIASA, Austria|
+|2017-2019 | Postdoctoral Research Scholar , IIASA, Austria|
 |2017 | Postdoctoral Researcher , Delft University of Technology, Netherlands|
 |2016 | Research Associate , University College London, UK|
 
@@ -23,12 +20,8 @@ Her current research interests center around the drivers and implications of dem
 
 ### Education
 
-#### 2011-2016 | PhD in Policy Analysis, Delft University of Technology, Netherlands
-
-  - 2013 - Visiting student - Engineering Systems Division, Massachusetts Institute of Technology, USA
-
-#### 2009-2011 | MSc in Systems Engineering, Policy Analysis and Management, Delft University of Technology, Netherlands
-
-#### 2004-2009 | BSc in Industrial Engineering, Bogazici University, Turkey
-
-  - 2008 - Exchange student - Eindhoven University of Technology, Netherlands
+|2011-2016 | PhD in Policy Analysis, Delft University of Technology, Netherlands|
+|  - 2013| Visiting student , Engineering Systems Division, Massachusetts Institute of Technology, USA|
+|2009-2011 | MSc in Systems Engineering, Policy Analysis and Management, Delft University of Technology, Netherlands|
+|2004-2009 | BSc in Industrial Engineering, Bogazici University, Turkey|
+| - 2008| Exchange student , Eindhoven University of Technology, Netherlands|
