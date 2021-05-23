@@ -9,32 +9,18 @@ Her current research interests center around the drivers and implications of dem
 [Sibel's full CV as of May 2021](/Eker_CV_202105.pdf)
 
 ### Experience
-<div>
-  <table align="left">
-    <tr><th align="left"> </th><th align="left"> </th><th align="left"> </th></tr>
-    <tr><td><b>2020-present</b></td><td>Senior Researcher</td><td>Climate Interactive, Washington DC, USA</td></tr>
-    <tr><td><b>2019-present</b></td><td>Research Scholar</td><td>IIASA, Austria</td></tr>
-    <tr><td><b>2017-2019</b></td><td>Postdoctoral Research Scholar</td><td>IIASA, Austria</td></tr>
-    <tr><td><b>2017</b></td><td>Postdoctoral Researcher</td><td>Delft University of Technology, Netherlands</td></tr>
-    <tr><td><b>2016</b></td><td>Research Associate</td><td>University College London, UK</td></tr>
-  </table>
-</div>
 
+#### 2020-present | Senior Researcher | Climate Interactive, Washington DC, USA
 
-### Expertise 
+#### 2019-present | Research Scholar | IIASA, Austria
 
-#### Problem structuring and participatory modelling 
-Contextualizing and structuring complex problems based on systems analytical approaches, knowledge co-production and stakeholder engagement
+#### 2017-2019 | Postdoctoral Research Scholar | IIASA, Austria
 
-#### System dynamics (SD) modelling
-Qualitative and quantitative [system dynamics](https://www.systemdynamics.org/what-is-sd) models, providing model-based solution strategies and policy recommendations for dynamic problems in various complex social, managerial, economic, or environmental contexts
+#### 2017 | Postdoctoral Researcher | Delft University of Technology, Netherlands
 
-#### Decision-making under deep uncertainty
-Analyzing decision-making problems characterized by [deep uncertainty](https://www.rand.org/pubs/monograph_reports/MR1626.html), when the parties to a decision do not know, or agree on, the best model for relating actions to consequences or the likelihood of future events, using decision-aid tools and dedicated Python-packages for exploratory modelling and analysis and multi-objective robust decision making 
+#### 2016 | Research Associate | University College London, UK
 
-#### Data collection and analysis
-Qualitative and quantitative data collection from surveys, interviews, scientific literature, online databases, website and social media APIs (e.g. Google Trends, Facebook); qualitiative data analysis based on grounded theory approach, quantitative data analysis and visualization, including text-mining, with Python tools
-
+---
 
 ### Education
 
