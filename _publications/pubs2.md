@@ -1,5 +1,5 @@
 ---
-title: "Conference papers"
+title: "Conference Papers"
 image: 
   thumbnail: /images/icon_conference.jpg
   caption: ""

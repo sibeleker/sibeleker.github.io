@@ -1,5 +1,5 @@
 ---
-title: "Book chapters and Theses"
+title: "Book Chapters and Theses"
 image: 
   thumbnail: /images/icon_book.jpg
   caption: ""

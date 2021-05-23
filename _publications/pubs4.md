@@ -1,5 +1,5 @@
 ---
-title: "Blog posts"
+title: "Blog Posts"
 image: 
   thumbnail: /images/icon_blog.jpg
   caption: ""
