@@ -29,6 +29,6 @@ title: Media Coverage
 
 * Correio Braziliense - [Estudos mostram o tamanho do obstáculos de uma alimentação sustentável](https://www.correiobraziliense.com.br/app/noticia/ciencia-e-saude/2019/07/28/interna_ciencia_saude,774184/alimentacao-sustentavel.shtml)
 
-### About [*biomethane subsidization policyhttps://www.sciencedirect.com/science/article/abs/pii/S0301421515001251?via%3Dihub)
+### About [*biomethane subsidization policy*](https://www.sciencedirect.com/science/article/abs/pii/S0301421515001251?via%3Dihub)
 
 * TU Delta - [Subsidie op groen gas: ja of nee](https://www.delta.tudelft.nl/article/subsidie-op-groen-gas-ja-nee)
