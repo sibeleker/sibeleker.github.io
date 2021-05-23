@@ -1,12 +1,9 @@
 ---
 title: "Blog posts"
 image: 
-  thumbnail: fas fa-graduation-cap
+  thumbnail: /images/blog_solid.svg
   caption: ""
 ---
-Blog posts
-
-
 
 Eker S (2021) [Testing the Economic Impact of Climate Change in En-ROADS](https://www.climateinteractive.org/analysis/economic-impact-of-climate-change-in-en-roads/) Climate Interactive.
 

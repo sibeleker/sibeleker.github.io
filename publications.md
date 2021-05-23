@@ -3,6 +3,7 @@ title: Publications
 layout: collection
 permalink: /publications/
 collection: publications
-entries_layout: grid
+entries_layout: list
+show_excerpts: false
 ---
 
