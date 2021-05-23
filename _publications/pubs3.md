@@ -1,7 +1,7 @@
 ---
 title: "Book chapters and Theses"
 image: 
-  thumbnail: /images/icon_book.png
+  thumbnail: /images/icon_book.jpg
   caption: ""
 ---
 Full list of publications can also be seen in 

@@ -1,8 +1,8 @@
 ---
 title: "Journal Articles"
 image: 
-  path: /images/icon_article.png
-  thumbnail: /images/icon_article.png
+  path: /images/icon_article.jpg
+  thumbnail: /images/icon_article.jpg
   caption: ""
 ---
 Full list of peer-reviewed journal articles can also be seen in 

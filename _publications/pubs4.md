@@ -1,7 +1,7 @@
 ---
 title: "Blog posts"
 image: 
-  thumbnail: /images/icon_blog.png
+  thumbnail: /images/icon_blog.jpg
   caption: ""
 ---
 

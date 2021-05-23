@@ -1,7 +1,7 @@
 ---
 title: "Conference papers"
 image: 
-  thumbnail: /images/icon_conference.png
+  thumbnail: /images/icon_conference.jpg
   caption: ""
 ---
 A list of peer-reviewed conference papers can also be seen in 
