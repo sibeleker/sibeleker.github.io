@@ -2,8 +2,13 @@
 title: Talks and Outreach
 layout: page
 ---
-|<ul><li>[**Organized Events and Outreach**](#organized-events-and-outreach)</li><li>[**Invited lectures and talks**](#invited-lectures-and-talks)</li><li>[**International conference talks**](#international-conference-talks)</li></ul>|![right-aligned-image](/images/outreach.jpg){: .align-right width="550px"}|
+- [**Organized Events and Outreach**](#organized-events-and-outreach)
 
+- [**Invited lectures and talks**](#invited-lectures-and-talks)
+
+- [**International conference talks**](#international-conference-talks)
+
+![right-aligned-image](/images/outreach.jpg){: .align-right width="600px"}
 
 # Organized Events and Outreach
 
