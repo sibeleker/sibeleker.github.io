@@ -6,13 +6,15 @@ layout: page
 ![right-aligned-image](/images/outreach.jpg){: .align-right width="550px"}
 - [**Organized Events and Outreach**](#organized-events-and-outreach)
 
+    
 
 - [**Invited lectures and talks**](#invited-lectures-and-talks)
 
+    
 
 - [**International conference talks**](#international-conference-talks)
 
-
+<p> </p>
 
 # Organized Events and Outreach
 
