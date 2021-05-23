@@ -1,7 +1,6 @@
 ---
 title: "Behavior change for low-carbon lifestyles"
 image: 
-  path: /images/behavior_lg.png
   thumbnail: /images/behavior_400_200.png
   caption: "@Dreamstime.com"
 ---
@@ -12,7 +11,7 @@ However, whether these rates of change can be achieved or not, and under what co
 In this project, I combine integrated assessment modelling with social simulation to investigate a feasible and effective rate of lifestyle change. Feasible adoption rates of low-carbon lifestyles will then lead to feasible demand scenarios for food, energy and material consumption. 
 Data-driven (e.g. online social media) social simulation models help to identify the key drivers of such widespread lifestyle changes. 
 
-![right-aligned-image](/images/Figure1.png){: .align-right}
+![right-aligned-image](/images/Figure1.png){: .align-right width="350px"}
 Our work on sustainable diets, which couples the [FeliX intergated assessment model](https://www.iiasa.ac.at/web/home/research/researchPrograms/EcosystemsServicesandManagement/Felix_Model.html) with social dynamics has received wide attention, exemplified in this [*commentary*](https://www.nature.com/articles/s41893-019-0354-7)
 and the [*editorial*](https://www.nature.com/articles/s41893-019-0366-3). We extended this study on sustainable diets by exploring the usability of social media data across the world to quantify the model on a global scale. We continue using social media data to analyze the drivers of low-carbon lifestyles on a global scale also for the home cooling case.  
 
