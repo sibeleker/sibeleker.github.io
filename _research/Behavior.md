@@ -1,6 +1,7 @@
 ---
 title: "Behavior change for low-carbon lifestyles"
 image: 
+  path: /images/behavior_lg.png
   thumbnail: /images/behavior_400_200.png
   caption: "@Dreamstime.com"
 ---
