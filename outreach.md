@@ -8,7 +8,7 @@ layout: page
 
 - [**International conference talks**](#international-conference-talks)
 
-![right-aligned-image](/images/outreach.jpg){: .align-right width="600px"}
+![center-aligned-image](/images/outreach.jpg){: .align-center width="600px"}
 
 # Organized Events and Outreach
 
