@@ -1,8 +1,8 @@
 ---
 title: "Dealing with uncertainties in the Dutch gas sector: An exploratory modelling and analysis approach"
 image: 
-  path: /images/phd.png
-  thumbnail: /images/phd.png
+  path: /images/phd.jpg
+  thumbnail: /images/phd.jpg
   caption: "Sibel Eker"
 ---
 Robust policy options for the transition to a low-carbon energy system
