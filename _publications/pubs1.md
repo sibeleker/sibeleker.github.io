@@ -1,12 +1,13 @@
 ---
 title: "Journal Articles"
 image: 
-  thumbnail: fas fa-graduation-cap
+  thumbnail: /images/icon_article.png
   caption: ""
 ---
-Peer-reviewed journal articles
-
-[GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en)  - [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research)  - [ORCID](https://orcid.org/0000-0003-2264-132X)
+Full list of peer-reviewed journal articles can also be seen in 
+- [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en)  
+- [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research)  
+- [ORCID](https://orcid.org/0000-0003-2264-132X)
 
 
 **Eker, S**. (2021) [Drivers of photovoltaic uncertainty](https://www.nature.com/articles/s41558-021-01002-z). *Nature Climate Change* 11, 184–185. 

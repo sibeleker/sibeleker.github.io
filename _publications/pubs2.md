@@ -1,10 +1,14 @@
 ---
 title: "Conference papers"
 image: 
-  thumbnail: fas fa-graduation-cap
+  thumbnail: /images/icon_conference.png
   caption: ""
 ---
-Peer-reviewed conference papers
+A list of peer-reviewed conference papers can also be seen in 
+- [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en)  
+- [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research)  
+- [ORCID](https://orcid.org/0000-0003-2264-132X)
+
 
 
 Eker S, Reese G, Obersteiner M (2018). “[Meat or vegetarian? - A model-based analysis of the global diet change dynamics](http://pure.iiasa.ac.at/id/eprint/15448/1/Eker_SD2018.pdf).” The 36th International Conference of the System Dynamics Society, Reykjavik, Iceland.

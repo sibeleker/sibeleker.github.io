@@ -1,9 +1,10 @@
 ---
 title: "Blog posts"
 image: 
-  thumbnail: /images/blog_solid.svg
+  thumbnail: /images/icon_blog.png
   caption: ""
 ---
+
 
 Eker S (2021) [Testing the Economic Impact of Climate Change in En-ROADS](https://www.climateinteractive.org/analysis/economic-impact-of-climate-change-in-en-roads/) Climate Interactive.
 
