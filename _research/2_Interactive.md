@@ -14,6 +14,5 @@ such as [C-ROADS](https://croadsworldclimate.climateinteractive.org/) and
 Behind these interactive simulation environments, there are globally aggregate integrated assessment models of climate, energy and economy. 
 In the development, maintenance and update of these models, I focus on the [economic impacts of climate change](https://www.climateinteractive.org/analysis/economic-impact-of-climate-change-in-en-roads/) and land-based mitigation options.  
 
-
 ![center-aligned-image](/images/enroads_dmg.png){: .align-center width="550px"}
 
