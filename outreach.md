@@ -4,7 +4,11 @@ layout: page
 ---
 
 
-[Organized Events and Outreach](#organized-events-and-outreach)
+-> [**Organized Events and Outreach**](#organized-events-and-outreach)
+-> [**Invited lectures and talks**](#invited-lectures-and-talks)
+-> [**International conference talks**](#international-conference-talks)
+
+![cnter-aligned-image](/images/outreach.jpeg){: .align-center width="700px"}
 
 # Organized Events and Outreach
 
@@ -24,6 +28,8 @@ layout: page
 
 <h1 id="2-invited">Invited lectures and talks</h1>
 
+Eker S (2021). Using online social media data to estimate energy demand. May 2021, [ENERGYA](http://www.energy-a.eu/) Workshop, Euro-Mediterranean Center on Climate Change (CMCC), Italy. 
+
 Eker S (2019). Introduction to agent-based modelling. October 2019, Institute for Management Research, Radboud University, Nijmegen, Netherlands.
 
 Eker S (2019). [Modelling human behaviour behind global diet shifts](https://www.csh.ac.at/event/csh-talk-by-sibel-eker/). May 2019, Complexity Science Hub, Vienna, Austria.
@@ -38,6 +44,13 @@ Eker S (2016). Dealing with Uncertainties in the Dutch Gas Sector: An explorator
 
 <h1 id="3-conference">International conference talks</h1>
 (excl. the talks on [conference papers](https://sibeleker.github.io/publications/pubs2/)
+
+Eker, S., Siegel, L., Jones, C., Sterman, J., Kapmeier, F., Fiddaman, T., Homer, J., Rooney-Varga, J., Franck, T., and Jones, A.: 
+[Public Outreach and Interactive Learning with En-ROADS Global Energy and
+Climate Simulator](https://meetingorganizer.copernicus.org/EGU21/EGU21-7334.html)., EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-7334,
+
+Kapmeier, F., Sterman, J., Siegel, L., **Eker, S.**, Fiddaman, T., Homer, J., Rooney-Varga, J., and Jones, A.: 
+[En-ROADS: A Global Energy and Climate Simulator to Support Strategic Thinking and Public Outreach](https://meetingorganizer.copernicus.org/EGU21/EGU21-7608.html), EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-7608,
 
 Eker S (2020). Can we use online social media data for modelling lifestyle change?. In: [Annual meeting of the Integrated Assessment Modelling Consortium](https://www.iamconsortium.org/event/thirteenth-annual-meeting-of-the-iamc-2020/), 1-4 December 2020.
 
