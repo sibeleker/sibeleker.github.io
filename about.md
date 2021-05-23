@@ -16,9 +16,8 @@ Her current research interests center around the drivers and implications of dem
 
 #### 2017-2019 | Postdoctoral Research Scholar | IIASA, Austria
 
-#### 2017 | Postdoctoral Researcher | Delft University of Technology, Netherlands
-
-#### 2016 | Research Associate | University College London, UK
+|2017 | Postdoctoral Researcher , Delft University of Technology, Netherlands|
+|2016 | Research Associate , University College London, UK|
 
 ---
 
