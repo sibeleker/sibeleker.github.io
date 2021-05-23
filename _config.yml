@@ -98,9 +98,9 @@ defaults:
       path: "_research"
       type: research
     values:
-      layout: post
-      comments: true
-      share: true
+      layout: page
+      comments: false
+      share: false
 
 # Site Author
 author:
