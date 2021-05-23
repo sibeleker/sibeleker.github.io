@@ -5,9 +5,9 @@ image:
   thumbnail: /images/behavior_400_200.png
   caption: "@Dreamstime.com"
 ---
-Lifestyle change is an important demand-side measure for climate change mitigation. 
+Developing feasible demand-side mitigation scenarios through understanding psychosocial dynamics
 
-Referring to a reduction in the carbon footprint of individuals or households in various consumption areas, the mitigation potential of lifestyle change has been mostly assessed in top-down studies that assume a particular rate of reduction in consumption. 
+Lifestyle change is an important demand-side measure for climate change mitigation. Referring to a reduction in the carbon footprint of individuals or households in various consumption areas, the mitigation potential of lifestyle change has been mostly assessed in top-down studies that assume a particular rate of reduction in consumption. 
 However, whether these rates of change can be achieved or not, and under what conditions, is yet uncertain. 
 In this project, I combine integrated assessment modelling with social simulation to investigate a feasible and effective rate of lifestyle change. Feasible adoption rates of low-carbon lifestyles will then lead to feasible demand scenarios for food, energy and material consumption. 
 Data-driven (e.g. online social media) social simulation models help to identify the key drivers of such widespread lifestyle changes. 

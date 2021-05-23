@@ -5,7 +5,7 @@ image:
   thumbnail: /images/basalt_tn.jpg
   caption: "@pexels.com"
 ---
-
+Mitigation potential and co-benefits of enhanced weathering
 
 Safe and scalable negative emission technologies (NETs), which actively remove carbon dioxide (CO2) 
 from the atmosphere and ensure long-term carbon sequestration will be needed to meet the Paris agreement, 
