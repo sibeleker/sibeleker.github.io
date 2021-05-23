@@ -82,6 +82,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -93,10 +96,18 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Recipe defaults
+  # Research defaults
   - scope:
       path: "_research"
       type: research
+    values:
+      layout: page
+      comments: false
+      share: false
+    # Pubs defaults
+  - scope:
+      path: "_publications"
+      type: publications
     values:
       layout: page
       comments: false
