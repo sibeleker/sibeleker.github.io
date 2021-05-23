@@ -1,7 +1,6 @@
 ---
 title: "Behavior change for low-carbon lifestyles"
-image: 
-  thumbnail: /images/behavior_400_200.png
+thumbnail: /images/behavior_400_200.png
 ---
 Lifestyle change is an important demand-side measure for climate change mitigation. 
 
