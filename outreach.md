@@ -10,7 +10,7 @@ layout: page
 
 - [**International conference talks**](#international-conference-talks)
 
-![center-aligned-image](/images/outreach.jpeg){: .align-center width="700px"}
+![center-aligned-image](/images/outreach.jpeg){: .align-center }
 
 # Organized Events and Outreach
 
@@ -28,7 +28,7 @@ layout: page
 
 -------------------
 
-<h1 id="2-invited">Invited lectures and talks</h1>
+# Invited lectures and talks
 
 Eker S (2021). Using online social media data to estimate energy demand. May 2021, [ENERGYA](http://www.energy-a.eu/) Workshop, Euro-Mediterranean Center on Climate Change (CMCC), Italy. 
 
@@ -44,7 +44,7 @@ Eker S (2016). Dealing with Uncertainties in the Dutch Gas Sector: An explorator
 
 -------------------
 
-<h1 id="3-conference">International conference talks</h1>
+# International conference talks
 (excl. the talks on [conference papers](https://sibeleker.github.io/publications/pubs2/)
 
 Eker, S., Siegel, L., Jones, C., Sterman, J., Kapmeier, F., Fiddaman, T., Homer, J., Rooney-Varga, J., Franck, T., and Jones, A.: 
