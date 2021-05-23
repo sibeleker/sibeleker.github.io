@@ -6,6 +6,7 @@ image:
   caption: "@Dreamstime.com"
 ---
 Lifestyle change is an important demand-side measure for climate change mitigation. 
+
 Referring to a reduction in the carbon footprint of individuals or households in various consumption areas, the mitigation potential of lifestyle change has been mostly assessed in top-down studies that assume a particular rate of reduction in consumption. 
 However, whether these rates of change can be achieved or not, and under what conditions, is yet uncertain. 
 In this project, I combine integrated assessment modelling with social simulation to investigate a feasible and effective rate of lifestyle change. Feasible adoption rates of low-carbon lifestyles will then lead to feasible demand scenarios for food, energy and material consumption. 

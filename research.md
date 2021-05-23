@@ -6,4 +6,3 @@ collection: research
 entries_layout: grid
 ---
 
-The list of research projects.
