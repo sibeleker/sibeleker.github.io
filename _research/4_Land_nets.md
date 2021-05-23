@@ -6,6 +6,7 @@ image:
   caption: "@pexels.com"
 ---
 
+
 Safe and scalable negative emission technologies (NETs), which actively remove carbon dioxide (CO2) 
 from the atmosphere and ensure long-term carbon sequestration will be needed to meet the Paris agreement, 
 in addition to conventional climate change mitigation measures. 
