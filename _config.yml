@@ -79,7 +79,7 @@ plugins:
 
 # Collections
 collections:
-  recipes:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -95,8 +95,8 @@ defaults:
       share: true
   # Recipe defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_research"
+      type: research
     values:
       layout: post
       comments: true
