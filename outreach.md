@@ -28,17 +28,17 @@ layout: page
 
 # Invited lectures and talks
 
-Eker S (2021). Using online social media data to estimate energy demand. May 2021, [ENERGYA](http://www.energy-a.eu/) Workshop, Euro-Mediterranean Center on Climate Change (CMCC), Italy. 
+2021 - Using online social media data to estimate energy demand. May 2021, [ENERGYA](http://www.energy-a.eu/) Workshop, Euro-Mediterranean Center on Climate Change (CMCC), Italy. 
 
-Eker S (2019). Introduction to agent-based modelling. October 2019, Institute for Management Research, Radboud University, Nijmegen, Netherlands.
+2019 - Introduction to agent-based modelling. October 2019, Institute for Management Research, Radboud University, Nijmegen, Netherlands.
 
-Eker S (2019). [Modelling human behaviour behind global diet shifts](https://www.csh.ac.at/event/csh-talk-by-sibel-eker/). May 2019, Complexity Science Hub, Vienna, Austria.
+2019 - [Modelling human behaviour behind global diet shifts](https://www.csh.ac.at/event/csh-talk-by-sibel-eker/). May 2019, Complexity Science Hub, Vienna, Austria.
 
-Eker S (2018). Systems modelling to investigate sustainable consumption dynamics. Lecture series on “Delivering on the Sustainable Development Goals: Systems analytical perspectives on strategies and trade-offs”, October 2018, Institute for Social Ecology, Vienna, Austria. 
+2018 - Systems modelling to investigate sustainable consumption dynamics. Lecture series on “Delivering on the Sustainable Development Goals: Systems analytical perspectives on strategies and trade-offs”, October 2018, Institute for Social Ecology, Vienna, Austria. 
 
-Eker S (2018). System dynamics modelling for sustainable production and consumption. IIASA-University of Tokyo Workshop on "How can advanced mathematical modeling tools be useful to address sustainability challenges?", March 2018, Laxenburg, Austria.
+2018 - System dynamics modelling for sustainable production and consumption. IIASA-University of Tokyo Workshop on "How can advanced mathematical modeling tools be useful to address sustainability challenges?", March 2018, Laxenburg, Austria.
 
-Eker S (2016). Dealing with Uncertainties in the Dutch Gas Sector: An exploratory modeling and analysis approach. [Seminar at Industrial Engineering Department](http://www.ie.boun.edu.tr/?q=events/seminar-january-11-2016), Bogazici University, January 2016, Istanbul Turkey.
+2016 - Dealing with Uncertainties in the Dutch Gas Sector: An exploratory modeling and analysis approach. [Seminar at Industrial Engineering Department](http://www.ie.boun.edu.tr/?q=events/seminar-january-11-2016), Bogazici University, January 2016, Istanbul Turkey.
 
 -------------------
 
