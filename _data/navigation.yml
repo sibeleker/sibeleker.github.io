@@ -3,10 +3,12 @@
 - title: About
   url: /about
 - title: Research
-  url: /research/
+  url: /research
 - title: Publications
-  url: /publications/
-- title: Projects
-  url: /projects/
+  url: /publications
+- title: Talks and Outreach
+  url: /talks_outreach
+- title: Media Coverage
+  url: /media
 - title: Search
-  url: /search/
+  url: /search
