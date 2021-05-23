@@ -2,7 +2,7 @@
 title: Research
 layout: collection
 permalink: /research
-collection: projects
+collection: research
 entries_layout: grid
 ---
 
