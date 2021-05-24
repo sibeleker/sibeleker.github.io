@@ -1,5 +1,5 @@
 ---
-title: "Low-carbon lifestyles for demand-side mitigations"
+title: "Low-carbon lifestyles for demand-side mitigation"
 image: 
   path: /images/behavior_lg.png
   thumbnail: /images/behavior_400_200.png
