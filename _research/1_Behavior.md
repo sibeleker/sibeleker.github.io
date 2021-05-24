@@ -14,7 +14,9 @@ Data-driven (e.g. online social media) social simulation models help to identify
 
 ![right-aligned-image](/images/Figure1.png){: .align-right width="350px"}
 Our work on sustainable diets, which couples the [FeliX intergated assessment model](https://www.iiasa.ac.at/web/home/research/researchPrograms/EcosystemsServicesandManagement/Felix_Model.html) with social dynamics has received wide attention, exemplified in this [*commentary*](https://www.nature.com/articles/s41893-019-0354-7)
-and the [*editorial*](https://www.nature.com/articles/s41893-019-0366-3). We extended this study on sustainable diets by exploring the usability of social media data across the world to quantify the model on a global scale. We continue using social media data to analyze the drivers of low-carbon lifestyles on a global scale also for the home cooling case.  
+and the [*editorial*](https://www.nature.com/articles/s41893-019-0366-3). We extended this study on sustainable diets by exploring the usability of social media data across the world to quantify the model on a global scale. A global map showing the interest of the Facebook audience in vegetarianism, as described in [Eker et al. (2021)](https://doi.org/10.1088/1748-9326/abf770) can be seen [here](https://sibeleker.github.io/map.html).    
+
+We continue using social media data to analyze the drivers of low-carbon lifestyles on a global scale also for the home cooling case.  
 
 #### Publications
 
