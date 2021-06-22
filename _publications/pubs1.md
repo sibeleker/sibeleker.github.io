@@ -10,7 +10,7 @@ Full list of peer-reviewed journal articles can also be seen in
 - [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research)  
 - [ORCID](https://orcid.org/0000-0003-2264-132X)
 
-**Eker S**, Garcia D, van Ruijven B, Valin H. (2021). [Using social media audience data to analyse the drivers of low-carbon diets](https://iopscience.iop.org/article/10.1088/1748-9326/abf770). *Environmental Research Letters* 16, 074001.
+**Eker S**, Garcia D, van Ruijven B, Valin H. (2021). [Using social media audience data to analyse the drivers of low-carbon diets](https://iopscience.iop.org/article/10.1088/1748-9326/abf770). *Environmental Research Letters* 16, 7.
 
 **Eker, S**. (2021) [Drivers of photovoltaic uncertainty](https://www.nature.com/articles/s41558-021-01002-z). *Nature Climate Change* 11, 184–185. 
 
