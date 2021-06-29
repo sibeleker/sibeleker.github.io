@@ -3,7 +3,13 @@ layout: page
 title: Media Coverage
 ---
 
-### About [*sustainable diets*](https://www.nature.com/articles/s41893-019-0331-1)
+### About [*sustainable diets*](https://www.nature.com/articles/s41893-019-0331-1) and [using social media data](https://iopscience.iop.org/article/10.1088/1748-9326/abf770)
+
+* CarbonBrief [Daily Briefing](https://www.carbonbrief.org/daily-brief/business-leaders-urge-biden-to-set-ambitious-climate-goal)
+
+* Inside Climate News [Warming Trends](https://insideclimatenews.org/news/26062021/warming-trends-radio-from-a-future-free-of-fossil-fuels-vegetarianism-not-hot-on-social-media-and-overheated-umpires-make-bad-calls/)
+
+* ORF Austrian news and [radio interview](https://science.orf.at/stories/3207266/)
 
 * Yale Environment Review - [You – yes, you – can make people’s diets more sustainable](https://environment-review.yale.edu/you-yes-you-can-make-peoples-diets-more-sustainable)
 
