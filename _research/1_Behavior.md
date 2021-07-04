@@ -20,7 +20,7 @@ We continue using social media data to analyze the drivers of low-carbon lifesty
 
 #### Publications
 
-- Eker S, Garcia D, Valin H, van Ruijven B. (in press). [Using social media audience data to analyse the drivers of low-carbon diets](https://doi.org/10.1088/1748-9326/abf770). *Environmental Research Letters*. 
+- Eker S, Garcia D, Valin H, van Ruijven B. (2021). [Using social media audience data to analyse the drivers of low-carbon diets](https://doi.org/10.1088/1748-9326/abf770). *Environmental Research Letters* 16, 7. 
 - Eker S, Reese G, Obersteiner M (2019). [Modelling the drivers of a widespread shift to sustainable diets](https://www.nature.com/articles/s41893-019-0331-1). *Nature Sustainability* 2: 725-735.  
  
 
