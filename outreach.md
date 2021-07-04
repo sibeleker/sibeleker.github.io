@@ -12,6 +12,8 @@ layout: page
 
 # Organized Events and Outreach
 
+2021 - En-ROADS Climate Action Simulation role-play game (in Turkish). [Sosyal Iklim Dernegi](https://sosyaliklim.org/)
+
 2021 - [En-ROADS Climate Workshop (in Turkish)](https://www.ashoka.org/en-tr/sosyal-giri%C5%9Fimcilik-g%C3%BCn%C3%BC-2021?utm_medium=email&utm_source=Ashoka&utm_campaign=2892069_SGG%202021-%20Davetlisiniz&dm_t=0,0,0,0,0#section-51034) Ashoka Turkey Social Enterpreneurship Day.
 
 2021 - [Exploring the Economic Impacts of Climate Change in En-ROADS – the “Damage Function”](https://www.youtube.com/watch?v=9Sr6gbU-6Ss&ab_channel=ClimateInteractive) Webinar by Climate Interactive.
