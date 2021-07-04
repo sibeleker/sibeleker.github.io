@@ -28,6 +28,8 @@ layout: page
 
 # Invited lectures and talks
 
+2021 - Driver of solar photovoltaic uncertainty. June 2021, [NAVIGATE webinar](https://www.navigate-h2020.eu/webinar-sources-of-uncertainty-in-long-term-global-scenarios-of-solar-pv-technology/) organized by Euro-Mediterranean Center on Climate Change (CMCC). 
+
 2021 - Using online social media data to estimate energy demand. May 2021, [ENERGYA](http://www.energy-a.eu/) Workshop, Euro-Mediterranean Center on Climate Change (CMCC), Italy. 
 
 2019 - Introduction to agent-based modelling. October 2019, Institute for Management Research, Radboud University, Nijmegen, Netherlands.
