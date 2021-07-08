@@ -30,7 +30,9 @@ layout: page
 
 # Invited lectures and talks
 
-2021 - Driver of solar photovoltaic uncertainty. June 2021, [NAVIGATE webinar](https://www.navigate-h2020.eu/webinar-sources-of-uncertainty-in-long-term-global-scenarios-of-solar-pv-technology/) organized by Euro-Mediterranean Center on Climate Change (CMCC). 
+2021 - Global Modeling for Climate Change Research and Action. July 2021, [System Dynamics Society Webinar](https://systemdynamics.org/event/system-dynamics-for-climate-change/)
+
+2021 - Drivers of solar photovoltaic uncertainty. June 2021, [NAVIGATE webinar](https://www.navigate-h2020.eu/webinar-sources-of-uncertainty-in-long-term-global-scenarios-of-solar-pv-technology/) organized by Euro-Mediterranean Center on Climate Change (CMCC). 
 
 2021 - Using online social media data to estimate energy demand. May 2021, [ENERGYA](http://www.energy-a.eu/) Workshop, Euro-Mediterranean Center on Climate Change (CMCC), Italy. 
 
