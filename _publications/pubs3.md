@@ -4,10 +4,6 @@ image:
   thumbnail: /images/icon_book.jpg
   caption: ""
 ---
-Full list of publications can also be seen in 
-- [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en)  
-- [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research)  
-- [ORCID](https://orcid.org/0000-0003-2264-132X)
 
 Kwakkel J, **Eker S**, Pruyt E (2016). "[How robust is a robust policy? Comparing alternative robustness metrics for robust decision-making.](https://link.springer.com/chapter/10.1007/978-3-319-33121-8_10)" In Robustness Analysis in Decision Aiding, Optimization, and Analytics, edited by Michael  Doumpos, Constantin Zopounidis and Evangelos Grigoroudis. Springer.
 

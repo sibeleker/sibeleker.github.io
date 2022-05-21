@@ -4,10 +4,6 @@ image:
   thumbnail: /images/icon_conference.jpg
   caption: ""
 ---
-A list of peer-reviewed conference papers can also be seen in 
-- [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en)  
-- [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research)  
-- [ORCID](https://orcid.org/0000-0003-2264-132X)
 
 Eker S (2021). [Societal dynamics of low-carbon lifestyles](https://www.youtube.com/watch?v=G_K_4fWwG7E&ab_channel=SibelEker) [International System Dynamics Conference](https://systemdynamics.org/conference/), Chicago, US and Virtual.
 
