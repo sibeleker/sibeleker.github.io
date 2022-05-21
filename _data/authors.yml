@@ -1,0 +1,12 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Sibel Eker:
+  name: Sibel Eker
+  picture: /images/Eker_1.jpg
+  twitter: "@sibel_eker"
+  links:
+    - title: Twitter
+      url: https://twitter.com/sibel_eker_
+      icon: fab fa-twitter-square
+

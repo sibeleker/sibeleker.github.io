@@ -1,0 +1,14 @@
+# Site navigation links
+
+- title: About
+  url: /about
+- title: Research
+  url: /research
+- title: Publications
+  url: /publications
+- title: Talks and Outreach
+  url: /outreach
+- title: Media Coverage
+  url: /media
+- title: Search
+  url: /search
