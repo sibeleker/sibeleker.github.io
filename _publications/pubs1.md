@@ -1,9 +1,7 @@
 ---
 title: "Journal Articles"
 image: 
-  # path: /images/icon_article.jpg
   thumbnail: /images/icon_article.jpg
-  caption: ""
 ---
 Full list of peer-reviewed journal articles can also be seen in 
 - [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en)  
