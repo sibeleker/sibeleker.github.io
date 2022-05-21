@@ -31,6 +31,10 @@ layout: page
 -------------------
 
 # Invited lectures and talks
+2022 – Acting on Sustainable Development Goal (SDG) synergies and trade-offs requires policy-focused systems tools. Keynote speech at the [5th International Research Workshop on Archetypes in Sustainability Research](https://glp.earth/news-events/events/5th-international-research-workshop-archetypes-sustainability-research), University of Greifswald, Germany.
+
+2022 – Social dynamics of low-carbon lifestyles. [Radboud Interfaculty Complexity Hub](https://www.radboud-complexity.com/).
+
 2021 - Interactive simulation environments and role playing games to explore climate solutions.  Koc University, Turkey.
 
 2021 - [Career Development Panel](https://www.deepuncertainty.org/2021-webinar-series/). Webinar series of the Society for Decision-making under Deep Uncertainty. 
@@ -55,6 +59,7 @@ layout: page
 
 # International conference talks
 (excl. the talks on [conference papers](https://sibeleker.github.io/publications/pubs2/))
+
 Eker S, Mastrucci A, Pachauri S, van Ruijven B (2021). Trends and drivers of air-conditioning adoption: Confidence-building in social media data. In: Annual meeting of the Integrated Assessment Modelling Consortium, 29 November-3 December 2021.
 
 Eker, S., Siegel, L., Jones, C., Sterman, J., Kapmeier, F., Fiddaman, T., Homer, J., Rooney-Varga, J., Franck, T., and Jones, A.: 
