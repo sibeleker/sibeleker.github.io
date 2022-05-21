@@ -11,7 +11,7 @@ title: "Sibel Eker"
 description: "Scientist, Systems Modeler and Analyst"
 baseurl: "sibeleker.github.io" # the subpath of your site, e.g. "/blog"
 url: "https://sibeleker.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+avatar:           /images/profile4.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
