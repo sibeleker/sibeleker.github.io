@@ -1,76 +1,154 @@
-# Outputting
-permalink: /:categories/:year/:month/:day/:title.html
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Conversion
-markdown:         kramdown
-highlighter:      rouge
-excerpt_separator: <!--more-->
-
-# Config for your profile.
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+# theme: jekyll-theme-so-simple
+# remote_theme: mmistakes/so-simple-theme@3.2.0
+skin: "/assets/css/skins/default.css"
+locale: en-US
 title: "Sibel Eker"
 description: "Scientist, Systems Modeler and Analyst"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://sibeleker.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-avatar:           /images/profile4.jpg   # Path to an avatar image
+logo: "/images/profile4.jpg" # path of site logo, e.g. "/assets/images/logo.png"
+date_format: "%B %-d, %Y"
+read_time: false
+words_per_minute: 200
+mathjax:
+  enable: true
+#  combo: "tex-mml-chtml"
+#  tags: "none"
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+google_analytics: "UA-158051792-1" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 
-# The theme uses the baseurl throughout, which is useful for running the entire
-# site under a subdir, like for this GitHub Pages deployment as a project site.
-# Use "" when runnign the site out of the root of a domain.
-# baseurl: "/friday-theme"
+twitter:
+  username: sibel_eker_ # site's Twitter username
 
-# Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+# Liquid
+liquid:
+  error_mode: strict
 
-# Wire in the SASS files in the theme directory.
-sass:
-  sass_dir: theme/_sass
-  style: compressed
+# Build settings
+markdown: kramdown
+feed:
+  path: atom.xml
 
-# Turn the projects into a collection.
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Search
+search_full_content: false
+
+# Taxonomy pages
+# category_archive_path: "/categories/#"
+# tag_archive_path: "/tags/#"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Collections
 collections:
-  projects:
+  research:
     output: true
-    title: Projects
-    permalink: /:collection/:name.html
-  portfolio:
+    permalink: /:collection/:path/
+  publications:
     output: true
-    title: portfolio
-    permalink: /:collection/:name.html
+    permalink: /:collection/:path/
 
+# Front Matter Defaults
 defaults:
-# Turn the profile sidebar on for all pages by default, except for the
-# collections, where it is off and replaced by useful things on the sidebar.
-# To override this one a page, use
-#    show_profile: false
-# to hide the profile.
-  -
-    scope:
-      path: ""
-    values:
-      show_profile: true
-  -
-    scope:
+  # Post defaults
+  - scope:
       path: "_posts"
+      type: posts
     values:
-      show_profile: false
-      layout: defaults/post
-  -
-    scope:
-      path: "_portfolio"
+      layout: post
+      comments: true
+      share: true
+  # Research defaults
+  - scope:
+      path: "_research"
+      type: research
     values:
-      show_profile: false
-      layout: defaults/portfolio
-  -
-    scope:
-      path: "_projects"
+      layout: page
+      comments: false
+      share: false
+    # Pubs defaults
+  - scope:
+      path: "_publications"
+      type: publications
     values:
-      show_profile: false
-      layout: defaults/project
-  -
-    scope:
-      path: "list"
-    values:
-      show_profile: false
-      layout: defaults/list
+      layout: page
+      comments: false
+      share: false
+
+# Site Author
+author:
+  name: Sibel Eker
+  picture: /images/profile4.jpg
+  email: "sibeleker@gmail.com"
+  twitter: sibel_eker_
+  links:
+    - title: Twitter
+      url: https://twitter.com/sibel_eker_
+      icon: fab fa-twitter-square
+    - title: Google Scholar
+      url: https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en
+      icon: fas fa-graduation-cap
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/sibel-eker-01b7ba1a/
+      icon: fab fa-linkedin 
+
+
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/sibel_eker_
+    icon: fab fa-twitter-square
+  - title: Google Scholar
+    url: https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en
+    icon: fas fa-graduation-cap
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sibel-eker-01b7ba1a/
+    icon: fab fa-linkedin
+  - title: GitHub
+    url: https://github.com/sibeleker
+    icon: fab fa-github-square
+  #- title: ORCID
+  #  url: https://orcid.org/0000-0003-2264-132X
+  #  icon: fab fa-orcid
 
 
