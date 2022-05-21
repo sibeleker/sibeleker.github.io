@@ -1,7 +1,7 @@
 ---
 title: "Journal Articles"
 image: 
-  path: /images/icon_article.jpg
+  # path: /images/icon_article.jpg
   thumbnail: /images/icon_article.jpg
   caption: ""
 ---
