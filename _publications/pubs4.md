@@ -2,7 +2,6 @@
 title: "Blog Posts"
 image: 
   thumbnail: /images/icon_blog.jpg
-  caption: ""
 ---
 
 Eker S (2021) [Social Cost of Carbon in En-ROADS](https://www.climateinteractive.org/analysis/social-cost-of-carbon-in-en-roads/) Climate Interactive.
