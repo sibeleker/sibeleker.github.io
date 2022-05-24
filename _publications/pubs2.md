@@ -4,6 +4,7 @@ image:
   thumbnail: /images/icon_conference.jpg
 
 ---
+*Peer-reviewed papers excluding the [conference talks](https://sibeleker.github.io/outreach)*
 
 Eker S (2021). [Societal dynamics of low-carbon lifestyles](https://www.youtube.com/watch?v=G_K_4fWwG7E&ab_channel=SibelEker) [International System Dynamics Conference](https://systemdynamics.org/conference/), Chicago, US and Virtual.
 
