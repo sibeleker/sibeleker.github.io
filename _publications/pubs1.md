@@ -7,6 +7,7 @@ image:
 
 *Full list of peer-reviewed journal articles can also be seen in [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research) or [ORCID](https://orcid.org/0000-0003-2264-132X).*
 
+Moallemi EA, **Eker S**, Gao L, Hadjikakou M, Liu Q, Kwakkel J, Reed P, Obersteiner M, Guo Z, Bryan B. (2022). [Early systems change necessary for catalyzing long-term sustainability in a post-2030 agenda](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00324-4) *One Earth*.
 
 Moallemi EA, Gao L, **Eker S**, Bryan BA. (2022). [Diversifying models for analysing global change scenarios and sustainability pathways](https://doi.org/10.1017/sus.2022.7). *Global Sustainability* 5, e7,1-17.
 
