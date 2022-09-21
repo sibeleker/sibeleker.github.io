@@ -6,7 +6,7 @@ Dr. Sibel Eker is currently an Assistant Professor at Radboud University, [Nijme
 
 Her current research interests center around the drivers and implications of demand-side climate change mitigation, sustainable diets, and co-production of mitigation and sustainability scenarios through simple integrated assessment models. 
 
-Sibel is a selected member of [Global Young Academy](https://globalyoungacademy.net/) and an associate editor of [Humanities and Social Sciences Communications](https://www.nature.com/palcomms/). She teaches system dynamics modelling at Nijmegen School of Management and European Master in System Dynamics.
+Sibel is a selected member of [Global Young Academy](https://globalyoungacademy.net/) where she is co-leading the Scientific Excellence Working Group; and an associate editor of [Humanities and Social Sciences Communications](https://www.nature.com/palcomms/). She teaches system dynamics modelling at Nijmegen School of Management and European Master in System Dynamics.
 
 Sibel's full CV can be seen [here](/Eker_CV_Jun22.pdf).  
 
