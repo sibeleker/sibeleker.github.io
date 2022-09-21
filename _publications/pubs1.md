@@ -6,6 +6,7 @@ image:
 ---
 
 *Full list of peer-reviewed journal articles can also be seen in [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research) or [ORCID](https://orcid.org/0000-0003-2264-132X).*
+
 Moallemi EA, Hosseini SH, **Eker S**, Gao L, Bertone E, Szetey K, Taylor N, & Bryan BA. (2022). [Eight Archetypes of Sustainable Development Goal (SDG) Synergies and Trade-Offs](https://doi.org/10.1029/2022EF002873) *Earth's Future*, 10, e2022EF002873.. 
 
 Moallemi EA, **Eker S**, Gao L, Hadjikakou M, Liu Q, Kwakkel J, Reed P, Obersteiner M, Guo Z, Bryan B. (2022). [Early systems change necessary for catalyzing long-term sustainability in a post-2030 agenda](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00324-4) *One Earth*.
