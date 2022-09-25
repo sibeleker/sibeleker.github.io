@@ -1,6 +1,5 @@
 ---
-title: "Journal Articles"
-layout: page 
+title: "Journal Articles" 
 image: 
   thumbnail: /images/icon_article.jpg
 ---
