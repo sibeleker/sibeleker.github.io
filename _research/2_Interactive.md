@@ -1,9 +1,9 @@
 ---
 title: "Interactive simulation environments for climate solutions"
 image: 
-	path: /images/enroads.png
-	thumbnail: /images/enroads_400_200.png
-	caption: "@[En-ROADS](https://en-roads.climateinteractive.org/)"
+  path: /images/enroads.png
+  thumbnail: /images/enroads_400_200.png
+  caption: "@[En-ROADS](https://en-roads.climateinteractive.org/)"
 ---
 Co-production of mitigation scenarios through simple IAMs and interactive simulations
 
