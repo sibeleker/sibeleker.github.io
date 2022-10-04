@@ -1,7 +1,6 @@
 ---
 title: "Conference Papers"
-image: 
-  thumbnail: /images/icon_conference.jpg
+thumbnail: /images/icon_conference.jpg
 
 ---
 *Peer-reviewed papers excluding the [conference talks](https://sibeleker.github.io/outreach)*

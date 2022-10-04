@@ -1,7 +1,6 @@
 ---
 title: "Reports, Book Chapters and Theses"
-image: 
-  thumbnail: /images/icon_book.jpg
+thumbnail: /images/icon_book.jpg
 ---
 
 Eker S and Wilson C. (2022). [System Dynamcis of Social Tipping Processes](https://pure.iiasa.ac.at/id/eprint/17955/). IIASA Report. Laxenburg, Austria: IIASA
