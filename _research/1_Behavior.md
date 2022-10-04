@@ -1,7 +1,9 @@
 ---
 title: "Low-carbon lifestyles for demand-side mitigation"
-thumbnail: /images/behavior_400_200.png
-caption: "@Dreamstime.com"
+image: 
+	path: /images/behavior_lg.png	
+	thumbnail: /images/behavior_lg.png
+	caption: "@Dreamstime.com"
 ---
 Developing feasible demand-side mitigation scenarios through understanding psychosocial dynamics of lifestyle change
 
