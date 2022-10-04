@@ -8,6 +8,8 @@ image:
 
 *Full list of peer-reviewed journal articles can also be seen in [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research) or [ORCID](https://orcid.org/0000-0003-2264-132X).*
 
+Kwenda PR, Lagerwall G, **Eker S** , & van Ruijven B (2022). [Identifying the Leverage Points in the Household Solid Waste Management System for Harare, Zimbabwe, Using Network Analysis Techniques](https://www.mdpi.com/2071-1050/14/19/12405) *Sustainability*, 14(19), 12405.
+
 Li Q, Guo Z, Gao L, Dong Y, Moallemi E, **Eker S**, Yang J, Li X, Obersteiner M & Bryan B. (2022). [A review of model-based scenario analysis of poverty for informing sustainability](https://doi.org/10.1016/j.envsci.2022.09.005). *Environmental Science & Policy 137*:336-348. 
 
 Moallemi EA, Hosseini SH, **Eker S**, Gao L, Bertone E, Szetey K, Taylor N, & Bryan BA. (2022). [Eight Archetypes of Sustainable Development Goal (SDG) Synergies and Trade-Offs](https://doi.org/10.1029/2022EF002873) *Earth's Future*, 10, e2022EF002873.. 
