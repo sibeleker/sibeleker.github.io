@@ -33,6 +33,10 @@ layout: page
 
 # Invited lectures and talks
 
+2022 - Climate Change and Sustainability: Global Issues in Development. [Advanced Modules in International Development (AMID)](https://www.rcsw.nl/beroepsopleidingen/amid/about-amid), November 2022
+
+2022 - Achieving Resilience in a Complex World - Guidance for Action from Systems Sciences. [Systems Analysis for Reducing Footprints and Enhancing Resilience Conference](https://iiasa.ac.at/events/iiasa50/austria), Austrian Academy of Sciences, November 2022
+
 2022 - Using simple integrated assessment models to explore human and earth system feedbacks. *Session "Advances in human-Earth System interactions in scenario development"* in [Scenarios Forum 2022](https://scenariosforum.org/)
 
 2022 – Acting on Sustainable Development Goal (SDG) synergies and trade-offs requires policy-focused systems tools. Keynote speech at the [5th International Research Workshop on Archetypes in Sustainability Research](https://glp.earth/news-events/events/5th-international-research-workshop-archetypes-sustainability-research), University of Greifswald, Germany.
