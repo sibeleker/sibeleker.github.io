@@ -7,6 +7,8 @@ thumbnail: /images/icon_article.jpg
 
 *Full list of peer-reviewed journal articles can also be seen in [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research) or [ORCID](https://orcid.org/0000-0003-2264-132X).*
 
+Kwenda PR, Lagerwall G, **Eker S** , & van Ruijven B (2022). [A Mini-Review on the Causes of Poor Household Solid Waste Management in Low-income Developing Countries: a Case Study of Urban Harare City, Zimbabwe] (https://doi.org/10.5276/JSWTM/2022.375) *The Journal of Solid Waste Technology and Management*, 48(3), pp. 375-388.
+
 Kwenda PR, Lagerwall G, **Eker S** , & van Ruijven B (2022). [Identifying the Leverage Points in the Household Solid Waste Management System for Harare, Zimbabwe, Using Network Analysis Techniques](https://www.mdpi.com/2071-1050/14/19/12405) *Sustainability*, 14(19), 12405.
 
 Li Q, Guo Z, Gao L, Dong Y, Moallemi E, **Eker S**, Yang J, Li X, Obersteiner M & Bryan B. (2022). [A review of model-based scenario analysis of poverty for informing sustainability](https://doi.org/10.1016/j.envsci.2022.09.005). *Environmental Science & Policy 137*:336-348. 
