@@ -4,6 +4,7 @@ title: Media Coverage
 ---
 
 ### About [*sustainable diets*](https://www.nature.com/articles/s41893-019-0331-1) and [using social media data](https://iopscience.iop.org/article/10.1088/1748-9326/abf770)
+* ORF [Green is the new pink](https://orf.at/stories/3306876/)
 
 * CarbonBrief [Daily Briefing](https://www.carbonbrief.org/daily-brief/business-leaders-urge-biden-to-set-ambitious-climate-goal)
 
