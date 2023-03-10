@@ -8,7 +8,7 @@ Her current research interests center around the drivers and implications of dem
 
 Sibel is a selected member of [Global Young Academy](https://globalyoungacademy.net/) where she is co-leading the Scientific Excellence Working Group; and an associate editor of [Humanities and Social Sciences Communications](https://www.nature.com/palcomms/). She teaches system dynamics modelling at Nijmegen School of Management and European Master in System Dynamics.
 
-Sibel's full CV can be seen [here](/Eker_CV_Jan23.pdf).  
+Sibel's full CV can be seen [here](/Eker_CV_March23.pdf).  
 
 ### Experience
 
