@@ -19,7 +19,7 @@ Team members : [Deepthi Swamy](https://iiasa.ac.at/staff/deepthi-swamy)
 ## Data-driven understanding of low-carbon lifestyles (LOW-AI)
 
 LOW-AI's objective is to identify the feasible societal change potential towards low-carbon consumption and its key drivers for climate change mitigation on a global scale. 
-For this purpose, we will analyze publicly available social media data to idrntify the current state of public interest and opinion in climate change mitigation. LOW-AI is funded by ONRG.  
+For this purpose, we will analyze publicly available social media data to identify the current state of public interest and opinion in climate change mitigation. Sibel is the PI of LOW-AI, which is funded by ONRG.  
 
 Team members : [Anna di Natale](https://iiasa.ac.at/staff/anna-di-natale)
 
@@ -33,7 +33,7 @@ In collaboration with : Charlie Wilson
 
 ## Wellbeing in global systems modelling
 
-In this project, we incorporate a well-defined and operationalized measure of wellbeing, [Years of Good Life (YoGL)](https://www.pnas.org/doi/10.1073/pnas.1907351118) to the [FeliX model](https://iiasa.ac.at/models-tools-data/felix) by consideirng the dynamic interactions between economic growth, demographic changes, food supply and climate impacts.
+In this project, we incorporate a well-defined and operationalized measure of wellbeing, [Years of Good Life (YoGL)](https://www.pnas.org/doi/10.1073/pnas.1907351118) to the [FeliX model](https://iiasa.ac.at/models-tools-data/felix) by considering the dynamic interactions between economic growth, demographic changes, food supply and climate impacts.
 
 In collaboration with : Qi Liu, Claudia Reiter, Michael Kuhn 
 
