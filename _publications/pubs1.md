@@ -7,14 +7,15 @@ thumbnail: /images/icon_article.jpg
 
 *Full list of peer-reviewed journal articles can also be seen in [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research) or [ORCID](https://orcid.org/0000-0003-2264-132X).*
 
-Eker S, Mastrucci A, Pachauri S, van Ruijven B. (2023). [Social media data shed light on air-conditioning interest of heat-vulnerable regions and sociodemographic groups](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00145-8). One Earth 6(4) 428-440.
+Liu Q, Yang J, Gao L, Dong Y, Guo Z, Moallemi E, **Eker S** & Obersteiner M. (2023). [Robust sensitivity analysis to uncertainties in environmental and socio-economic scenarios: A perspective from a global socio-ecological system model](https://www.sciencedirect.com/science/article/abs/pii/S0959652623014026?via%3Dihub). Journal of Cleaner Production 410, 137244. 
+
+**Eker S**, Mastrucci A, Pachauri S, van Ruijven B. (2023). [Social media data shed light on air-conditioning interest of heat-vulnerable regions and sociodemographic groups](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00145-8). One Earth 6(4) 428-440.
 
 da Silva CFA, Virguez E, **Eker S**, Zdenek CN, et al. (2023) [The future of scientific societies](https://www.science.org/doi/full/10.1126/science.adh8182). Science 380, 30-32 (Letter)
 
-Liu Q, Gao L, Guo Z, Moallemi E, Eker S, Yang J, Obersteiner M, Bryan B (2023). [Robust strategies to end global poverty and reduce environmental pressures](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00141-0), One Earth 6(4) 392-408.
+Crabolu G, Font X, **Eker S**. (2023) [Evaluating Policy Instrument Complexity With Causal Loop Diagrams](https://www.sciencedirect.com/science/article/pii/S0160738323000452?via%3Dihub). Annals of Tourism Research, 100.
 
-Liu Q, Yang J, Gao L, Dong Y, Guo Z, Moallemi E, Eker S & Obersteiner M. (in press). [Robust sensitivity analysis to uncertainties in environmental and socio-economic scenarios: A perspective from a global socio-ecological system model](https://www.sciencedirect.com/science/article/abs/pii/S0959652623014026?via%3Dihub). Journal of Cleaner Production. 
-
+Liu Q, Gao L, Guo Z, Moallemi E, **Eker S**, Yang J, Obersteiner M, Bryan B (2023). [Robust strategies to end global poverty and reduce environmental pressures](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00141-0), One Earth 6(4) 392-408.
 
 Kwenda PR, Lagerwall G, **Eker S** , & van Ruijven B (2022). [A Mini-Review on the Causes of Poor Household Solid Waste Management in Low-income Developing Countries: a Case Study of Urban Harare City, Zimbabwe](https://doi.org/10.5276/JSWTM/2022.375) *The Journal of Solid Waste Technology and Management*, 48(3), pp. 375-388.
 

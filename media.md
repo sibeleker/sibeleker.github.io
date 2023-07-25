@@ -4,6 +4,7 @@ title: Media Coverage
 ---
 
 ### About [*sustainable diets*](https://www.nature.com/articles/s41893-019-0331-1) and [using social media data](https://iopscience.iop.org/article/10.1088/1748-9326/abf770)
+
 * ORF [Green is the new pink](https://orf.at/stories/3306876/)
 
 * CarbonBrief [Daily Briefing](https://www.carbonbrief.org/daily-brief/business-leaders-urge-biden-to-set-ambitious-climate-goal)
@@ -29,6 +30,12 @@ title: Media Coverage
 * [earth.com](https://www.earth.com/news/population-wide-dietary-shifts/)
 
 * Altmetric list by [Nature Sustainability](https://iop.altmetric.com/details/108003499/news) and [ERL](https://nature.altmetric.com/details/63885494/news)
+
+### About [*air-conditioning and using social media data*](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00145-8)
+
+* Cooling post - [Social media reveals growing AC popularity](https://www.coolingpost.com/world-news/social-media-reveals-growing-ac-popularity/)
+
+* Energy Daily - [Social media data show increased popularity of air conditioning worldwide](https://www.energy-daily.com/reports/Social_media_data_provides_first_glimpse_at_increased_popularity_of_air_conditioning_worldwide_999.html)
 
 ### About [*enhanced weathering*](https://www.nature.com/articles/s41561-021-00798-x)
 

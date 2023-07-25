@@ -33,6 +33,12 @@ layout: page
 
 # Invited lectures and talks
 
+2023 - System dynamics modelling to explore climate, economy, environment and society interactions. *UK Department for Environment, Food and Rural Affairs (DEFRA)* Systems Thinking Seminar, 14 June 2023 
+
+2023 – Using simple integrated assessment models to explore human and earth system feedbacks. *Joint Oslo Seminar* (MET Norway, CICERO, University of Oslo), 24 May 2023, Oslo, Norway. 
+
+2023 – Using system dynamics to explore behavior change in integrated assessment context. *LOOPS-5 Workshop*, Conceptualizing and Navigating Earth Resilience in the Anthropocene. 27-29 March, *Stockholm Resilience Center*, Stockholm, Sweden.
+
 2022 - Climate Change and Sustainability: Global Issues in Development. [Advanced Modules in International Development (AMID)](https://www.rcsw.nl/beroepsopleidingen/amid/about-amid), November 2022
 
 2022 - Achieving Resilience in a Complex World - Guidance for Action from Systems Sciences. [Systems Analysis for Reducing Footprints and Enhancing Resilience Conference](https://iiasa.ac.at/events/iiasa50/austria), Austrian Academy of Sciences, November 2022

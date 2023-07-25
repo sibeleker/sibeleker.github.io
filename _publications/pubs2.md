@@ -5,6 +5,8 @@ thumbnail: /images/icon_conference.jpg
 ---
 *Peer-reviewed papers excluding the [conference talks](https://sibeleker.github.io/outreach)*
 
+Eker S, Wilson C. (2022). “Social tipping mechanisms for rapid decarbonization”. The 40th International Conference of the System Dynamics Society. July 2022, Frankfurt, Germany.
+
 Eker S (2021). [Societal dynamics of low-carbon lifestyles](https://www.youtube.com/watch?v=G_K_4fWwG7E&ab_channel=SibelEker) [International System Dynamics Conference](https://systemdynamics.org/conference/), Chicago, US and Virtual.
 
 Eker S, Reese G, Obersteiner M (2018). “[Meat or vegetarian? - A model-based analysis of the global diet change dynamics](http://pure.iiasa.ac.at/id/eprint/15448/1/Eker_SD2018.pdf).” The 36th International Conference of the System Dynamics Society, Reykjavik, Iceland.
