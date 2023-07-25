@@ -1,14 +1,5 @@
 ---
 title: Research
-layout: collection
-permalink: /research/
-collection: research
-entries_layout: grid
-show_excerpts: false
----
-
----
-title: Research
 layout: page
 ---
 - [**Current projects**](#current-projects)
@@ -17,6 +8,41 @@ layout: page
 
 # Current projects
 
+## [WorldTrans](https://www.worldtrans-horizon.eu/) - Transparent Assessments for Real People
+
+Funded by Horizon Europe, with an overall goal to aid the transformation to a climate neutral future by improving Integrated Assessment Models (IAMs), WorldTrans will provide an improved, user-friendly, and transparent approach to using IAMs in support of democratic decision-making for climate neutrality. An underlying working hypothesis is that by building intuition using simpler models it will be easier to make educated choices in terms of improvements in the costly process-based IAMs.
+
+In WorldTrans, Sibel is leading the workpackage on incorporating human systems, social heterogeneity and drivers of low-carbon consumption to IAMs and earth system models. Her work focuses on the extension and use of the [FeliX model](https://iiasa.ac.at/models-tools-data/felix) for analyzing the interactions between the drivers of low-carbon behavior change.
+
+Team members : [Deepthi Swamy](https://iiasa.ac.at/staff/deepthi-swamy) 
+
+## Data-driven understanding of low-carbon lifestyles (LOW-AI)
+
+LOW-AI's objective is to identify the feasible societal change potential towards low-carbon consumption and its key drivers for climate change mitigation on a global scale. 
+For this purpose, we will analyze publicly available social media data to idrntify the current state of public interest and opinion in climate change mitigation. LOW-AI is funded by ONRG.  
+
+Team members : [Anna di Natale](https://iiasa.ac.at/staff/anna-di-natale)
+
+## Social Tipping Dynamics
+
+Social tipping processes describe how social, political, economic or technological systems can move rapidly into a new system state if cascading positive feedback mechanisms are triggered. Interventions for activating these social tipping processes are promising levers for accelerating progress towards net-zero. 
+
+In this project, we build on recent literature and expert elicitation to explicitly characterise the feedback mechanisms, interconnections between systems, and monitoring variables, that collectively help explain social tipping dynamics.
+
+In collaboration with : Charlie Wilson
+
+## Wellbeing in global systems modelling
+
+In this project, we incorporate a well-defined and operationalized measure of wellbeing, [Years of Good Life (YoGL)](https://www.pnas.org/doi/10.1073/pnas.1907351118) to the [FeliX model](https://iiasa.ac.at/models-tools-data/felix) by consideirng the dynamic interactions between economic growth, demographic changes, food supply and climate impacts.
+
+In collaboration with : Qi Liu, Claudia Reiter, Michael Kuhn 
+
+## CHOICE
+
+Funded by Horizon Europe, CHOICE aspires to mainstream IAMs, embedding them into the lifestyle choices and decision making process of consumers, producers and actors of the Food, Agriculture and Land Use sectors. This ambition is
+leveraged by a more realistic representation of behaviour change and actor heterogeneity aspects in IAMs, and supported by an approach that bridges social science and marketing tools, with the aim of accelerating climate action.
+
+Sibel is leading the tasks on using the [FeliX model](https://iiasa.ac.at/models-tools-data/felix) for exploring behavior-driven food demand scenarios.
 
 # Past research
 
