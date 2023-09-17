@@ -3,9 +3,9 @@ title: "Reports, Book Chapters and Theses"
 thumbnail: /images/icon_book.jpg
 ---
 
-Kuhn M, Eker S, Reiter C, & Liu Q. (2023). "Global systems analysis for understanding the drivers of sustainable wellbeing". In Lutz W & Pachauri S (Eds.), (Systems Analysis for Sustainable Wellbeing. 50 years of IIASA research, 40 years after the Brundtland Commission, contributing to the post-2030 Global Agenda)[https://pure.iiasa.ac.at/id/eprint/18965/] (pp. 61-76). IIASA. 
+Kuhn M, **Eker S**, Reiter C, & Liu Q. (2023). "Global systems analysis for understanding the drivers of sustainable wellbeing". In Lutz W & Pachauri S (Eds.), [Systems Analysis for Sustainable Wellbeing. 50 years of IIASA research, 40 years after the Brundtland Commission, contributing to the post-2030 Global Agenda](https://pure.iiasa.ac.at/id/eprint/18965/) (pp. 61-76). IIASA. 
 
-**Eker S**, Liu Q, Reiter C, & Kuhn M. (2023). (Full of Economic-Environment Linkages and Integration dX/dt (FeliX): Technical Model Documentation)[https://pure.iiasa.ac.at/id/eprint/18984/]. IIASA Report. Laxenburg:IIASA.
+**Eker S**, Liu Q, Reiter C, & Kuhn M. (2023). [Full of Economic-Environment Linkages and Integration dX/dt (FeliX): Technical Model Documentation](https://pure.iiasa.ac.at/id/eprint/18984/). IIASA Report. Laxenburg:IIASA.
 
 **Eker S** and Wilson C. (2022). [System Dynamics of Social Tipping Processes](https://pure.iiasa.ac.at/id/eprint/17955/). IIASA Report. Laxenburg, Austria: IIASA
 
