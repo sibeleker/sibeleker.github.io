@@ -2,7 +2,7 @@
 layout: page
 # title: Bio
 ---
-Dr. Sibel Eker is currently an Assistant Professor at Radboud University, [Nijmegen School of Management](https://www.ru.nl/nsm/)  and a Research Scholar at [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/) in Austria. Her interdisciplinary research profile combines systems analysis and engineering, decision sciences and social sciences, and her work brings systems thinking and uncertainty focus to climate change and sustainability problems with model-based approaches. Complementing her academic experience, she has worked with several stakeholders and policy actors such as UK DBEIS, World Bank, EIT-Climate KIC, governmental and private organizations.  
+Dr. Sibel Eker is a tenured Assistant Professor at Radboud University, [Nijmegen School of Management](https://www.ru.nl/nsm/)  and a Research Scholar at [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/) in Austria. Her interdisciplinary research profile combines systems analysis and engineering, decision sciences and social sciences, and her work brings systems thinking and uncertainty focus to climate change and sustainability problems with model-based approaches. Complementing her academic experience, she has worked with several stakeholders and policy actors such as UK DBEIS, World Bank, EIT-Climate KIC, governmental and private organizations.  
 
 Her current research interests center around the drivers and implications of demand-side climate change mitigation, sustainable diets, and co-production of mitigation and sustainability scenarios through simple integrated assessment models. 
 
