@@ -14,7 +14,7 @@ Funded by Horizon Europe, with an overall goal to aid the transformation to a cl
 
 In WorldTrans, Sibel is leading the workpackage on incorporating human systems, social heterogeneity and drivers of low-carbon consumption to IAMs and earth system models. Her work focuses on the extension and use of the [FeliX model](https://iiasa.ac.at/models-tools-data/felix) for analyzing the interactions between the drivers of low-carbon behavior change.
 
-Team members : [Deepthi Swamy](https://iiasa.ac.at/staff/deepthi-swamy) 
+Team members : [Deepthi Swamy](https://iiasa.ac.at/staff/deepthi-swamy), [Quanliang Ye](https://www.ru.nl/personen/ye-q) 
 
 ## Data-driven understanding of low-carbon lifestyles (LOW-AI)
 
