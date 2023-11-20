@@ -33,6 +33,8 @@ layout: page
 
 # Invited lectures and talks
 
+2023 - Improving the representation of social systems in climate policy models. *Eindhoven University of Technology, Department of Industrial Engineering and Innovation Sciences*, 26 October 2023 
+
 2023 - System dynamics modelling to explore climate, economy, environment and society interactions. *UK Department for Environment, Food and Rural Affairs (DEFRA)* Systems Thinking Seminar, 14 June 2023 
 
 2023 – Using simple integrated assessment models to explore human and earth system feedbacks. *Joint Oslo Seminar* (MET Norway, CICERO, University of Oslo), 24 May 2023, Oslo, Norway. 
