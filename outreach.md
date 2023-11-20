@@ -10,26 +10,6 @@ layout: page
 
 ![center-aligned-image](/images/outreach.jpg){: .align-center width="620px"}
 
-# Organized Events and Outreach
-2022 - Session *Interacting with integrated assessment models for target-seeking under uncertainty* in [Scenarios Forum 2022](https://scenariosforum.org/)
-
-2021 - En-ROADS Climate Action Simulation role-play game (in Turkish). [Sosyal Iklim Dernegi](https://sosyaliklim.org/)
-
-2021 - [En-ROADS Climate Workshop (in Turkish)](https://www.ashoka.org/en-tr/sosyal-giri%C5%9Fimcilik-g%C3%BCn%C3%BC-2021?utm_medium=email&utm_source=Ashoka&utm_campaign=2892069_SGG%202021-%20Davetlisiniz&dm_t=0,0,0,0,0#section-51034) Ashoka Turkey Social Enterpreneurship Day.
-
-2021 - [Exploring the Economic Impacts of Climate Change in En-ROADS – the “Damage Function”](https://www.youtube.com/watch?v=9Sr6gbU-6Ss&ab_channel=ClimateInteractive) Webinar by Climate Interactive.
-
-2021 - [En-ROADS Climate Workshop](https://www.climateinteractive.org/tools/en-roads/the-en-roads-climate-workshop/) Webinar by Climate Interactive. (*in Turkish*) 
-
-2020 - Organizing committee member of the [Annual Meeting of the Society for Decision Making under Deep Uncertainty](http://www.deepuncertainty.org/annual-meetings/2020-annual-meeting/)
-
-2019 - Katharine Hayhoe, *Barriers To Public Acceptance of Climate Science, Impacts, and Solutions*, [Lecture at IIASA](https://www.iiasa.ac.at/web/home/about/events/191004-Hayhoe.html).
-
-2019 - Group facilitator at the International Symposium on [Global Sustainable Development Goals in a Mediatized World](https://www.oeaw.ac.at/fileadmin/NEWS/2020/PDF/Webversion_AiD_18.pdf), organized by Austrian Academy of Sciences
-
-2014 & 2015 - Vice president and the PhD Colloquium organizer of the System Dynamics Student Chapter
-
--------------------
 
 # Invited lectures and talks
 
@@ -73,8 +53,31 @@ layout: page
 
 -------------------
 
+# Organized Events and Outreach
+2022 - Session *Interacting with integrated assessment models for target-seeking under uncertainty* in [Scenarios Forum 2022](https://scenariosforum.org/)
+
+2021 - En-ROADS Climate Action Simulation role-play game (in Turkish). [Sosyal Iklim Dernegi](https://sosyaliklim.org/)
+
+2021 - [En-ROADS Climate Workshop (in Turkish)](https://www.ashoka.org/en-tr/sosyal-giri%C5%9Fimcilik-g%C3%BCn%C3%BC-2021?utm_medium=email&utm_source=Ashoka&utm_campaign=2892069_SGG%202021-%20Davetlisiniz&dm_t=0,0,0,0,0#section-51034) Ashoka Turkey Social Enterpreneurship Day.
+
+2021 - [Exploring the Economic Impacts of Climate Change in En-ROADS – the “Damage Function”](https://www.youtube.com/watch?v=9Sr6gbU-6Ss&ab_channel=ClimateInteractive) Webinar by Climate Interactive.
+
+2021 - [En-ROADS Climate Workshop](https://www.climateinteractive.org/tools/en-roads/the-en-roads-climate-workshop/) Webinar by Climate Interactive. (*in Turkish*) 
+
+2020 - Organizing committee member of the [Annual Meeting of the Society for Decision Making under Deep Uncertainty](http://www.deepuncertainty.org/annual-meetings/2020-annual-meeting/)
+
+2019 - Katharine Hayhoe, *Barriers To Public Acceptance of Climate Science, Impacts, and Solutions*, [Lecture at IIASA](https://www.iiasa.ac.at/web/home/about/events/191004-Hayhoe.html).
+
+2019 - Group facilitator at the International Symposium on [Global Sustainable Development Goals in a Mediatized World](https://www.oeaw.ac.at/fileadmin/NEWS/2020/PDF/Webversion_AiD_18.pdf), organized by Austrian Academy of Sciences
+
+2014 & 2015 - Vice president and the PhD Colloquium organizer of the System Dynamics Student Chapter
+
+-------------------
+
 # International conference talks
 (excl. the talks on [conference papers](https://sibeleker.github.io/publications/pubs2/))
+
+Eker S, Liu Q, Reiter C, Kuhn M. Human wellbeing in relation to climate, economy and environment. In: Annual meeting of the Integrated Assessment Modelling Consortium, 14-17 November 2023, Venice, Italy.  
 
 Eker S, Wilson C (2022) Social tipping mechanisms for rapid decarbonization. In: [International System Dynamics Conference](https://systemdynamics.org/conference/), Frankfurt, Germany.
 
