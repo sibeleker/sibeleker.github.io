@@ -8,7 +8,7 @@ layout: page
 
 # Current projects
 
-## [WorldTrans](https://www.worldtrans-horizon.eu/) - Transparent Assessments for Real People
+## [WorldTrans - Transparent Assessments for Real People](https://www.worldtrans-horizon.eu/) 
 
 Funded by Horizon Europe, with an overall goal to aid the transformation to a climate neutral future by improving Integrated Assessment Models (IAMs), WorldTrans will provide an improved, user-friendly, and transparent approach to using IAMs in support of democratic decision-making for climate neutrality. An underlying working hypothesis is that by building intuition using simpler models it will be easier to make educated choices in terms of improvements in the costly process-based IAMs.
 
@@ -16,7 +16,7 @@ In WorldTrans, Sibel is leading the workpackage on incorporating human systems, 
 
 Team members : [Deepthi Swamy](https://iiasa.ac.at/staff/deepthi-swamy), [Quanliang Ye](https://www.ru.nl/personen/ye-q) 
 
-## Data-driven understanding of low-carbon lifestyles (LOW-AI)
+## [Data-driven understanding of low-carbon lifestyles (LOW-AI)](https://iiasa.ac.at/projects/low-ai)
 
 LOW-AI's objective is to identify the feasible societal change potential towards low-carbon consumption and its key drivers for climate change mitigation on a global scale. 
 For this purpose, we will analyze publicly available social media data to identify the current state of public interest and opinion in climate change mitigation. Sibel is the PI of LOW-AI, which is funded by ONRG.  
@@ -37,7 +37,7 @@ In this project, we incorporate a well-defined and operationalized measure of we
 
 In collaboration with : Qi Liu, Claudia Reiter, Michael Kuhn 
 
-## CHOICE
+## [CHOICE - Mainstream mitigation pathways for a climate-conscious change in the food chain](https://www.climatechoice.eu/)
 
 Funded by Horizon Europe, CHOICE aspires to mainstream IAMs, embedding them into the lifestyle choices and decision making process of consumers, producers and actors of the Food, Agriculture and Land Use sectors. This ambition is
 leveraged by a more realistic representation of behaviour change and actor heterogeneity aspects in IAMs, and supported by an approach that bridges social science and marketing tools, with the aim of accelerating climate action.
