@@ -21,7 +21,7 @@ Team members : [Deepthi Swamy](https://iiasa.ac.at/staff/deepthi-swamy), [Quanli
 LOW-AI's objective is to identify the feasible societal change potential towards low-carbon consumption and its key drivers for climate change mitigation on a global scale. 
 For this purpose, we will analyze publicly available social media data to identify the current state of public interest and opinion in climate change mitigation. Sibel is the PI of LOW-AI, which is funded by ONRG.  
 
-Team members : [Anna di Natale](https://iiasa.ac.at/staff/anna-di-natale)
+Team members : [Anna di Natale](https://iiasa.ac.at/staff/anna-di-natale), [Sandeep Chowdhary](https://iiasa.ac.at/staff/sandeep-chowdhary)
 
 ## Social Tipping Dynamics
 
