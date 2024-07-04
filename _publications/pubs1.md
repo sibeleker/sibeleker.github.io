@@ -7,6 +7,12 @@ thumbnail: /images/icon_article.jpg
 
 *Full list of peer-reviewed journal articles can also be seen in [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research) or [ORCID](https://orcid.org/0000-0003-2264-132X).*
 
+Ye Q, Liu Q, Swamy D, Gao L, Moallemi EA, Rydzak F, **Eker S**. (2024) [FeliX 2.0: An integrated model of climate, economy, environment, and society interactions](https://www.sciencedirect.com/science/article/pii/S1364815224001828). Environmental Modelling & Software. 2024 Jun 14:106121.
+
+**Eker S**, Lenton T M, Powell T, Scheffran J, Smith SR, Swamy D, Zimm C (2024) [Cross-system interactions for positive tipping cascades](https://esd.copernicus.org/articles/15/789/2024/esd-15-789-2024.pdf). Earth System Dynamics. 2024 Jun 19;15(3):789-800.
+
+**Eker S**, Wilson C, Hohne N, McCaffrey M, Monaterelo I, Niamir L, Zimm C. (2024) [Harnessing social tipping dynamics: A systems approach for accelerating decarbonization](https://www.cell.com/one-earth/fulltext/S2590-3322(24)00255-0). One Earth. 2024 Jun 21;7(6):976-88.
+
 Liu Q, Yang J, Gao L, Dong Y, Guo Z, Moallemi E, **Eker S** & Obersteiner M. (2023). [Robust sensitivity analysis to uncertainties in environmental and socio-economic scenarios: A perspective from a global socio-ecological system model](https://www.sciencedirect.com/science/article/abs/pii/S0959652623014026?via%3Dihub). Journal of Cleaner Production 410, 137244. 
 
 **Eker S**, Mastrucci A, Pachauri S, van Ruijven B. (2023). [Social media data shed light on air-conditioning interest of heat-vulnerable regions and sociodemographic groups](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00145-8). One Earth 6(4) 428-440.
