@@ -8,7 +8,7 @@ Her current research interests center around the drivers and implications of dem
 
 Sibel is a selected member of [Global Young Academy](https://globalyoungacademy.net/) where she is co-leading the Scientific Excellence Working Group; a Lead Author in UNEP's [Global Environment Outlook (GEO-7)](https://www.unep.org/geo/); and an editorial board member of [Humanities and Social Sciences Communications](https://www.nature.com/palcomms/) and [Mitigation and Adaptation Strategies for Global Change](https://www.springer.com/journal/11027). She teaches system dynamics modelling at Nijmegen School of Management and European Master in System Dynamics.
 
-Sibel's full CV can be seen [here](/Eker_CV_Sep24.pdf).  
+Sibel's full CV can be seen [here](/Eker_CV_Dec.pdf).  
 
 ### Experience
 
