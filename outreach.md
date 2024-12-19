@@ -24,7 +24,7 @@ layout: page
 
 2024 – Approaches to Nonlinear Change. Positive Tipping Points Workshop of the *Bezos Earth Fund*. September 2024.
 
-2024 – [Tipping Points. Useful or Disturbing?](https://www.ru.nl/en/services/sport-culture-and-recreation/radboud-reflects/agenda/tipping-points-useful-or-disturbing) Public talk by Radboud Reflects. September 2024.
+2024 – [Tipping Points. Useful or Disturbing?](https://www.ru.nl/services/sport-cultuur-en-ontspanning/radboud-reflects/nieuws/tipping-points-useful-or-disturbing-lezing-en-gesprek-door-systeemwetenschapper-sibel-eker-en-milieufilosoof-marc-davidson) Public talk by Radboud Reflects. September 2024.
 
 2024 – Participatory Systems Mapping. IIASA Expert Workshop on Digitalisation Narratives and Climate Change Mitigation. May 2024.
 
