@@ -12,6 +12,29 @@ layout: page
 
 
 # Invited lectures and talks
+2024 – Harnessing social tipping dynamics: How can we benefit from systems science? [Lovejoy Symposium 2024](https://www.worldwildlife.org/pages/2024-lovejoy-symposium). *World Wild Life Fund (WWF)*, 5 December 2024
+
+2024 - The Science of Measuring Sustainability: Going Beyond GDP. [World Science Forum](https://worldscienceforum.org/programme). 20-22 November 2024, Budapest
+
+2024 – AI for Climate Change Mitigation - The Transition to Net Zero. Panelist at the [Sixteenth session of the Team of Specialists on Innovation and Competitiveness Policies](https://unece.org/eci/documents/2024/11/presentations/panel-2-ai-climate-change-mitigation-transition-net-zero), *United Nations Economic Commission for Europe (UNECE)*, 19 November 2024, Geneva.
+
+2024 – Global system dynamics modeling of human-earth system interactions. *Max-Planck Institute for Meteorology at Hamburg*. 7 November, 2024
+
+2024 – AI in Science. Science Advice Mechanism of the European Commission and IIASA webinar. September 2024
+
+2024 – Approaches to Nonlinear Change. Positive Tipping Points Workshop of the *Bezos Earth Fund*. September 2024.
+
+2024 – [Tipping Points. Useful or Disturbing?](https://www.ru.nl/en/services/sport-culture-and-recreation/radboud-reflects/agenda/tipping-points-useful-or-disturbing) Public talk by Radboud Reflects. September 2024.
+
+2024 – Participatory Systems Mapping. IIASA Expert Workshop on Digitalisation Narratives and Climate Change Mitigation. May 2024.
+
+2024 - Humans in climate policy models. Computational Science Lab, University of Amsterdam. May 2024. 
+
+2024 – Tipping points in global systems modeling. IAS Workshop on Tipping points towards sustainability: Theory, tools and empirical evidence. April 2024, Amsterdam. 
+
+2024 – AI for Climate and Nature, Bezos Earth Fund and Columbia University, April 2024, New York (invited participant only)
+
+2024 – How to have humans in climate policy models. Institute for Advanced Study (IAS), University of Amsterdam. February 2024. 
 
 2023 - Improving the representation of social systems in climate policy models. *Eindhoven University of Technology, Department of Industrial Engineering and Innovation Sciences*, 26 October 2023 
 
@@ -54,6 +77,8 @@ layout: page
 -------------------
 
 # Organized Events and Outreach
+2024 - Organization of the *IIASA Expert Workshop on Using Social Media Data and Digital Platforms in Climate and Sustainability Research*.
+
 2022 - Session *Interacting with integrated assessment models for target-seeking under uncertainty* in [Scenarios Forum 2022](https://scenariosforum.org/)
 
 2021 - En-ROADS Climate Action Simulation role-play game (in Turkish). [Sosyal Iklim Dernegi](https://sosyaliklim.org/)
