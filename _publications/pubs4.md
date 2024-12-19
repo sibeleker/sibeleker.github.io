@@ -2,6 +2,8 @@
 title: "Blog Posts"
 thumbnail: /images/icon_blog.jpg
 ---
+2024 - [Understanding the role of the FeliX Model in CHOICE](https://www.climatechoice.eu/2024/08/06/understanding-the-role-of-the-felix-model-in-choice/). CHOICE project website. 
+
 2023 - [Using archetypes as a systemic lens to understand the complexity of sustainable development](https://i2insights.org/2023/06/13/systems-archetypes/). Integration and Implementation Insights.
 
 Eker S (2021) [Social Cost of Carbon in En-ROADS](https://www.climateinteractive.org/analysis/social-cost-of-carbon-in-en-roads/) Climate Interactive.
