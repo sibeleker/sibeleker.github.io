@@ -77,7 +77,7 @@ layout: page
 -------------------
 
 # Organized Events and Outreach
-2024 - Organization of the *IIASA Expert Workshop on Using Social Media Data and Digital Platforms in Climate and Sustainability Research*.
+2024 - Organization of the [IIASA Expert Workshop on Using Social Media Data and Digital Platforms in Climate and Sustainability Research](https://iiasa.ac.at/blog/dec-2024/advancing-climate-insights-with-social-media-data).
 
 2022 - Session *Interacting with integrated assessment models for target-seeking under uncertainty* in [Scenarios Forum 2022](https://scenariosforum.org/)
 
