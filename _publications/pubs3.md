@@ -2,6 +2,8 @@
 title: "Reports, Book Chapters and Theses"
 thumbnail: /images/icon_book.jpg
 ---
+Gaupp F, Eker S. (2024) "[Climate Activism, Social Media and Behavioural Change: A Literature Review](https://pure.iiasa.ac.at/id/eprint/19639/)". IIASA Working Paper: WP-24-007. 
+
 Eker S et al. (2023) “[Positive Tipping Cascades](https://global-tipping-points.org/section4/4-0-positive-tipping-points-in-technology-economy-and-society/4-5-positive-tipping-cascades/)”. In Lenton T (Eds.) [Global Tipping Points Report](https://global-tipping-points.org/). 
 
 Kuhn M, **Eker S**, Reiter C, & Liu Q. (2023). "Global systems analysis for understanding the drivers of sustainable wellbeing". In Lutz W & Pachauri S (Eds.), [Systems Analysis for Sustainable Wellbeing. 50 years of IIASA research, 40 years after the Brundtland Commission, contributing to the post-2030 Global Agenda](https://pure.iiasa.ac.at/id/eprint/18965/) (pp. 61-76). IIASA. 
