@@ -2,6 +2,14 @@
 title: "Reports, Book Chapters and Theses"
 thumbnail: /images/icon_book.jpg
 ---
+
+United Nations Environment Programme (2025). [Global Environment Outlook 7: A future we choose – Why investing in Earth now can lead to a trillion-dollar benefit for all](https://pure.iiasa.ac.at/id/eprint/21068/). Nairobi: United Nations Environment Programme. ISBN 9789280742466 10.59117/20.500.11822/49014.
+
+Wilson, C. , Verdolini, E., Kumar, P., & Eker, S. (2025). Expert Workshop on Digitalisation Narratives and Climate Change Mitigation: Synthesis Report. IIASA Report. Laxenburg, Austria: IIASA 10.5281/zenodo.15024068.
+
+Constantino et al. (2025) “3.1 Acting on Positive Tipping Points”, In Lenton T (Eds.) [Global Tipping Points Report 2025](https://global-tipping-points.org/positive-tipping-points/). 
+
+
 Gaupp F, Eker S. (2024) "[Climate Activism, Social Media and Behavioural Change: A Literature Review](https://pure.iiasa.ac.at/id/eprint/19639/)". IIASA Working Paper: WP-24-007. 
 
 Eker S et al. (2023) “[Positive Tipping Cascades](https://global-tipping-points.org/section4/4-0-positive-tipping-points-in-technology-economy-and-society/4-5-positive-tipping-cascades/)”. In Lenton T (Eds.) [Global Tipping Points Report](https://global-tipping-points.org/). 

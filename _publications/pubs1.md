@@ -7,6 +7,14 @@ thumbnail: /images/icon_article.jpg
 
 *Full list of peer-reviewed journal articles can also be seen in [GoogleScholar](https://scholar.google.at/citations?user=F5hvj3QAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Sibel_Eker/research) or [ORCID](https://orcid.org/0000-0003-2264-132X).*
 
+**Eker S**, Liu Q, Reiter C, Kuhn M, Lutz W (2025). [Wellbeing Cost of Carbon](https://www.cambridge.org/core/journals/global-sustainability/article/wellbeing-cost-of-carbon/D58FE26C07619E3D8E67F21E63DC7D01). Global Sustainability.
+
+Moallemi E., Castonguay A., D'Croz D.M., Nelson R. et al. (2025) [Complexity and uncertainty in future food system transformation modelling](https://doi.org/10.1038/s43016-025-01257-1), Nature Food.
+
+Yang J, Gao L, Guo Z, Moallemi E, **Eker S**, et al. (2025) [Integrative Sustainable Development Goal policy portfolios to accelerate global progress towards a more sustainable future: a modelling study](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(25)00196-2/fulltext). Lancet Planetary Health. 
+
+Lenton T.M., Powell T.W.R., Smith S.R., Geels, F.W., Alkemade, F., Ayoub, M., Barbrook-Johnson, P., Benson, S., Blomsma, F., Boulton, C.A., Buxton, J.E., Constantino, S.M., **Eker, S.** , et al. (2025). [A method to identify positive tipping points to accelerate low-carbon transitions and actions to trigger them](https://doi.org/10.1007/s11625-025-01704-9). Sustainability Science.
+
 Ye Q, Liu Q, Swamy D, Gao L, Moallemi EA, Rydzak F, **Eker S**. (2024) [FeliX 2.0: An integrated model of climate, economy, environment, and society interactions](https://www.sciencedirect.com/science/article/pii/S1364815224001828). Environmental Modelling & Software. 2024 Jun 14:106121.
 
 **Eker S**, Lenton T M, Powell T, Scheffran J, Smith SR, Swamy D, Zimm C (2024) [Cross-system interactions for positive tipping cascades](https://esd.copernicus.org/articles/15/789/2024/esd-15-789-2024.pdf). Earth System Dynamics. 2024 Jun 19;15(3):789-800.

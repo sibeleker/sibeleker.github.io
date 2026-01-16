@@ -12,6 +12,14 @@ layout: page
 
 
 # Invited lectures and talks
+2025 – Top-down modeling of social dynamics of low-carbon behavior, AGCI Workshop on Human Behavior in Global Change Models, Aspen Global Change Institute, 3-7 November 2025
+
+2025 – Modelling Suite of the CHOICE Project: Enabling Stakeholder Engagement, Capturing Demand Heterogeneity, and Facilitating Integrated Assessments, 2nd HYDRA Webinar, 31 October 2025
+
+2025 - Measuring subjective wellbeing through social media. Annual Meeting of the International EDITS Network, 14-16 October 2025, Laxenburg, Austria.
+
+2025- Improving the representation of social systems in climate policy models and large scale data on social systems. University of Graz, Department of Environmental Science, 25 January 2025, online.
+
 2024 – Harnessing social tipping dynamics: How can we benefit from systems science? [Lovejoy Symposium 2024](https://www.worldwildlife.org/pages/2024-lovejoy-symposium). *World Wild Life Fund (WWF)*, 5 December 2024
 
 2024 - The Science of Measuring Sustainability: Going Beyond GDP. [World Science Forum](https://worldscienceforum.org/programme). 20-22 November 2024, Budapest
